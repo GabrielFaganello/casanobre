@@ -178,9 +178,9 @@ jQuery(function ($) {
             }
 
             if ($(window).scrollTop() > 80) {
-                this.$nav.addClass('small');
+                // this.$nav.addClass('small');
             } else {
-                this.$nav.removeClass('small'); 
+                // this.$nav.removeClass('small'); 
             }
         },
         //document ready event

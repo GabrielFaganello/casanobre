@@ -170,6 +170,16 @@ section {
 	border-bottom: 1px solid #eee;
 	border-top: 1px solid #eee;
 }
+
+.bg-gray {
+	background: #535353;
+	border-bottom: 1px solid #eee;
+	border-top: 1px solid #eee;
+	margin-bottom: 0px;
+	padding:20px 0px;
+	font-family: 'Roboto Slab', serif;
+}
+
 /* 3 Parallax
 ----------------------------------------------------------------------------- */
 .parallax {
