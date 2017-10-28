@@ -1,0 +1,60 @@
+.intro-title-cn { /*Nobreza nas Atitudes!*/
+	font-weight: 900;
+	color: #ffffff;
+	/*text-transform: uppercase;*/
+	font-size: 48px;
+	text-shadow: rgba(0,0,0,0.498039) 2px 2px 2px;
+	letter-spacing: 0.02em;
+	margin: 0px 0px 20px 0px;
+	font-family: 'Semibold' !important;
+}
+
+.intro-text-cn { /*Na Casa Nobre Planejados você encontra qualidade, transparência e respeito.*/
+	font-weight: normal !important;
+	font-size: 16px;
+	color: #ffffff;
+	margin-bottom: 20px;
+	font-family: 'Semibold' !important;
+}
+
+.intro-text-cn-mp { /*Casa Nobre Planejados   DENTRO DO SUB*/ 
+	font-weight: bold !important;
+	font-size: 20px;
+	color: #ffffff;
+	margin-bottom: 20px;
+	font-family: 'Semibold' !important;
+}
+
+.btn-font-cn { /* Botão da home*/
+	font-family: 'Bold_Font' !important;
+	font-size: 12px !important;
+}
+
+.font-weight { /*[ e ]*/
+	font-weight: lighter !important;
+	color: #C24F56 !important;
+	font-size: 70px !important;
+	padding: 0px !important;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+
+.title-margin { /* Margem e padding da linha do titulo dentro do [ ] */
+	padding-top: 28px !important; 
+	padding-bottom: 12px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	margin-left: -30px !important;
+	margin-right: -30px !important;
+}
+
+.title-sub-cn { /* Titulo dentro do [ ]*/
+	font-family: 'Alt_Light' !important;
+	font-size: 24px !important;
+	margin-bottom: 12px !important;
+}
+
+.selection-margin { /* Diminuir a margen da seção*/
+	margin-top: -35px !important;
+	margin-bottom: -35px !important;
+}

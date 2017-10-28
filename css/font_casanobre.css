@@ -1,0 +1,14 @@
+@font-face{
+  font-family: "Semibold";
+  src: url('../fonts/Semibold.otf');
+}
+
+@font-face{
+  font-family: "Bold_Font";
+  src: url('../fonts/Bold.otf');
+}
+
+@font-face{
+  font-family: "Alt_Light";
+  src: url('../fonts/Alt_Light.otf');
+}
