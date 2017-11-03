@@ -12,3 +12,28 @@
   font-family: "Alt_Light";
   src: url('../fonts/Alt_Light.otf');
 }
+
+@font-face{
+  font-family: "Thin_Italic";
+  src: url('../fonts/Thin_Italic.otf');
+}
+
+@font-face{
+  font-family: "Regular";
+  src: url('../fonts/Regular.otf');
+}
+
+@font-face{
+  font-family: "Bold_Italic";
+  src: url('../fonts/Bold_Italic.otf');
+}
+
+#shadow {
+  background: #000;
+  width: 100%;
+  height: 100%;
+  opacity: 0.4;
+  position: absolute;
+  z-index: 99;
+}
+
