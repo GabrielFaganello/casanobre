@@ -25,19 +25,19 @@
 
             <div class="row">
                 <div class="col-md-12 title-margin-single text-center">
-                    <p><b>Confira a opnião deles:</b></p><br>
+                    <p><b>Confira a opinião deles:</b></p><br>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-md-6">
                     <div class="col-md-1 col-md-offset-3 text-right"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></div>
-                    <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os módeis da <br>casa nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
+                    <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os móveis da <br>Casa Nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
                     <!-- <div class="col-md-1 text-left"><i class="fa fa-quote-right fa-3x" style="color: #F1BDC4;"></div> -->
                 </div>
                 <div class="col-md-6">
                     <div class="col-md-1 col-md-offset-1 text-right"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></div>
-                    <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os módeis da <br>casa nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
+                    <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os móveis da <br>Casa Nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
                     <!-- <div class="col-md-1 text-left"><i class="fa fa-quote-right fa-3x" style="color: #F1BDC4;"></div> -->
                 </div>
             </div>
