@@ -302,3 +302,7 @@ img.hover-shadow {
 	color: #C24F56 !important;
 }
 
+.back-light-slider{
+  color: #000 !important; 
+  opacity: 0.7 !important;
+}

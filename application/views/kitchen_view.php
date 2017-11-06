@@ -183,115 +183,115 @@
       <div class="modal-content">
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">1 / 19</div>
           <img src="resources/img/kitchen/cozinhas_1.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">2 / 19</div>
           <img src="resources/img/kitchen/cozinhas_2.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">3 / 19</div>
           <img src="resources/img/kitchen/cozinhas_3.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">4 / 19</div>
           <img src="resources/img/kitchen/cozinhas_4.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">5 / 19</div>
           <img src="resources/img/kitchen/cozinhas_5.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">6 / 19</div>
           <img src="resources/img/kitchen/cozinhas_6.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">7 / 19</div>
           <img src="resources/img/kitchen/cozinhas_7.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">8 / 19</div>
           <img src="resources/img/kitchen/cozinhas_8.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">9 / 19</div>
           <img src="resources/img/kitchen/cozinhas_9.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">10 / 19</div>
           <img src="resources/img/kitchen/cozinhas_10.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">11 / 19</div>
           <img src="resources/img/kitchen/cozinhas_11.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">12 / 19</div>
           <img src="resources/img/kitchen/cozinhas_12.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">13 / 19</div>
           <img src="resources/img/kitchen/cozinhas_13.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">14 / 19</div>
           <img src="resources/img/kitchen/cozinhas_14.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">15 / 19</div>
           <img src="resources/img/kitchen/cozinhas_15.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">16 / 19</div>
           <img src="resources/img/kitchen/cozinhas_16.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">17 / 19</div>
           <img src="resources/img/kitchen/cozinhas_17.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">18 / 19</div>
           <img src="resources/img/kitchen/cozinhas_18.jpg" style="width:100%">
         </div>
 
         <div class="mySlides">
-          <span class="close cursor" style="color: #000 !important; opacity: 0.7 !important;" onclick="closeModal()">&times;</span>
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">19 / 19</div>
           <img src="resources/img/kitchen/cozinhas_19.jpg" style="width:100%">
         </div>
