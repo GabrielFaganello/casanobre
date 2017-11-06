@@ -27,7 +27,7 @@ class Casanobre extends CI_Controller {
 
 	public function rooms()
 	{
-		$data['folder'] = 'room';
+		$data['folder'] = 'rooms';
 		$this->load->view('menu_view');
 		$this->load->view('rooms_view', $data);
 		$this->load->view('footer_view');
@@ -35,7 +35,7 @@ class Casanobre extends CI_Controller {
 
 	public function home_theaters()
 	{
-		$data['folder'] = 'home_theater';
+		$data['folder'] = 'home-theater';
 		$this->load->view('menu_view');
 		$this->load->view('home_theaters_view', $data);
 		$this->load->view('footer_view');
