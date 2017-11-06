@@ -9,32 +9,38 @@ class Casanobre extends CI_Controller {
 		$this->load->view('footer_view');
 	}
 
-	public function kitchen()
+	public function kitchens()
 	{
 		$this->load->view('menu_view');
 		$this->load->view('kitchen_view');
 		$this->load->view('footer_view');
 	}
 
-	public function wc()
+	public function wcs()
 	{
 		$this->load->view('menu_view');
 		$this->load->view('wc_view');
 		$this->load->view('footer_view');
 	}
 
-	public function room()
+	public function rooms()
 	{
 		$this->load->view('menu_view');
 		$this->load->view('room_view');
 		$this->load->view('footer_view');
 	}
 
-	public function home_theater()
+	public function home_theaters()
 	{
 		$this->load->view('menu_view');
 		$this->load->view('home_theater_view');
 		$this->load->view('footer_view');
 	}
 
+	public function corp()
+	{
+		$this->load->view('menu_view');
+		$this->load->view('corp_view');
+		$this->load->view('footer_view');
+	}
 }

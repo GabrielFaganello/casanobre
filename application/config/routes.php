@@ -40,7 +40,11 @@
 
 $route['default_controller'] = "casanobre";
 $route['404_override'] = '';
-$route['kitchen'] = "casanobre/kitchen";
+$route['kitchens'] = "casanobre/kitchens";
+$route['rooms'] = "casanobre/rooms";
+$route['wcs'] = "casanobre/wcs";
+$route['home_theaters'] = "casanobre/home_theaters";
+$route['corp'] = "casanobre/corp";
 
 
 /* End of file routes.php */

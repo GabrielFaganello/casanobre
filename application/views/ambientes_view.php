@@ -11,7 +11,7 @@
                 </div>
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="<?=base_url('kitchen');?>">
+                    <a href="<?=base_url('kitchens');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 32%; color: #fff; z-index: 100; letter-spacing:2px !important;">[COZINHA]</p>  
                             <div class="shadow"></div>
@@ -22,7 +22,7 @@
 
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="<?=base_url('wc');?>">
+                    <a href="<?=base_url('wcs');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 31%; color: #fff; z-index: 100; letter-spacing:2px !important;">[BANHEIRO]</p>  
                             <div class="shadow"></div>
@@ -32,7 +32,7 @@
                 </div>
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="<?=base_url('room');?>">
+                    <a href="<?=base_url('rooms');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 27%; color: #fff; z-index: 100; letter-spacing:2px !important;">[DORMITÓRIO]</p>  
                             <div class="shadow"></div>
@@ -42,7 +42,7 @@
                 </div>
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="<?=base_url('home_theater');?>">
+                    <a href="<?=base_url('home_theaters');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 21%; color: #fff; z-index: 100; letter-spacing:2px !important;">[HOME THEATER]</p>  
                             <div class="shadow"></div>

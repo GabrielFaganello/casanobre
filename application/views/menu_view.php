@@ -48,24 +48,24 @@
                               <div class="dropdown-content text-left" style="padding: 0px; margin-left:-270px;">
                                 <div style="opacity: 1 !important;">
                                     
-                                <a class="menu-hover dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; margin-top: 25px; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;HOME</a>
+                                <a class="menu-hover dropdown-content-property" href="<?=base_url('');?>" style="font-family: Bold_Font !important; color: #fff; margin-top: 25px; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;HOME</a>
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;AMBIENTES</a>
                                     <ul style="padding: 0px; margin: 0px; list-style-type: none;">
 
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="#" style="font-family: Bold_Font !important; color: #fff; padding: 10px 0px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> COZINHA</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('kitchens');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 0px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> COZINHA</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="#" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> BANHEIRO</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('wcs');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> BANHEIRO</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="#" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> DORMITÓRIO</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('rooms');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> DORMITÓRIO</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="#" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> HOME THEATER</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('home_theaters');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> HOME THEATER</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="#" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
                                         </li>  
 
                                     </ul>
