@@ -129,12 +129,52 @@
         <section style="margin-top: 0px !important; margin-bottom: 0px !important; padding-top: 40px !important; padding-bottom: 0px !important;">
             <div class="container-fluid" >
                 <div class="row">
-                    <div class="col-md-6 text-right" style="background-color: #C24F56 !important; height:50px; margin-left: 0px !important; width:  !important;"><p style="padding-top: 13px !important; font-size: 18px !important; color: #fff">Localização</p></div>
-                    <div class="col-md-6 text-left" style="background-color: #C5CED6 !important; height:50px; width: 50% !important;"><p style="padding-top: 15px !important; font-size: 14px !important;">Fotos do Instagram</p></div>
+                    <div id="map_google" class="col-md-6 text-right select-home" style=" height:50px; margin-left: 0px !important; width:  !important; "><p id="p_map_google" style="padding-top: 13px !important; font-size: 18px !important; color: #fff">Localização</p></div>
+
+                    <div id="fotos_carousel"  class="col-md-6 text-left deselect-home" style="height:50px; width: 50% !important;"><p id="p_fotos_carousel" style="padding-top: 15px !important; font-size: 14px !important;">Fotos do Instagram</p></div>
                 </div>
-                <div class="row" style="margin-bottom: -6px !important; padding-bottom: 0px !important;">
+                <div  id="line_map" class="row" style="margin-bottom: -6px !important; padding-bottom: 0px !important;">
                         <iframe  style="margin-bottom: 0px !important; padding-bottom: 0px !important;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3660.03901426177!2d-46.55042564855444!3d-23.4590571636344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef50cf7473765%3A0x94614946c2e08760!2sAv.+Torres+Tibagy%2C+870+-+Vila+Aprazivel%2C+Guarulhos+-+SP!5e0!3m2!1spt-BR!2sbr!4v1508985729569" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
+                <div  id="line_fotos" class="row hide" style="margin-bottom: -6px !important; padding-bottom: 0px !important;">
+
+                    <div class=" container-fluid" style="width: 600px; height: 450px;">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                          <!-- Indicators -->
+                          <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                          </ol>
+
+                          <!-- Wrapper for slides -->
+                          <div class="carousel-inner">
+                            <div class="item active">
+                              <img src="resources/img/kitchen/2.jpg" alt="Los Angeles">
+                            </div>
+
+                            <div class="item">
+                              <img src="resources/img/kitchen/3.jpg" alt="Chicago">
+                            </div>
+
+                            <div class="item">
+                              <img src="resources/img/kitchen/1.jpg" alt="New York">
+                            </div>
+                          </div>
+
+                          <!-- Left and right controls -->
+                          <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+                        </div>
+                    </div>
+
+                </div>                
                 <div class="row">
                     <div class="col-md-12" style="background-color: #C24F56 !important; height:3px; margin-left: 0px !important; width:  !important;"></div>
                 </div>                

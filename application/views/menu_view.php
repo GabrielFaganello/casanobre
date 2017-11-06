@@ -65,17 +65,17 @@
                                             <a class="dropdown-content-property letter-change" href="<?=base_url('home_theaters');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> HOME THEATER</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="<?=base_url('');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('corp');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
                                         </li>  
 
                                     </ul>
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;CONTATO</a>
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;MAIS?<br> Acesse nossas redes</a>
                                     <div class="col-md-3 col-md-offset-2 text-center menu-hover" style="margin-bottom: 35px; color: #fff;">
-                                        <a href=""><i class="fa fa-facebook fa-2x letter-change text-center" aria-hidden="true" ></i></a>
+                                        <a href="https://www.facebook.com/Casa-Nobre-Planejados-1017788221624088/"><i class="fa fa-facebook fa-2x letter-change text-center" aria-hidden="true" ></i></a>
                                     </div>
                                     <div class="col-md-3 col-md-offset-2 text-center menu-hover" style="margin-bottom: 35px; color: #fff;">
-                                        <a href=""><i class="fa fa-instagram fa-2x letter-change text-center" aria-hidden="true" ></i></a>
+                                        <a href="https://www.instagram.com/casanobreoficial/"><i class="fa fa-instagram fa-2x letter-change text-center" aria-hidden="true" ></i></a>
                                     </div>
                               </div>
                                 </div >

@@ -42,6 +42,46 @@
     <script src="resources/js/typed.js" type="text/javascript"></script>
     <script src="resources/js/app.js" type="text/javascript"></script>
     <script type="text/javascript" src="resources/js/switcher.js"></script>
+
+    <script type="text/javascript">
+        
+        $("#map_google").click(function(){
+            $("#line_map").addClass("show");
+            $("#line_map").removeClass("hide");
+            $("#map_google").addClass("select-home");
+            $("#map_google").removeClass("deselect-home");
+            $("#p_map_google").addClass("select-home");
+            $("#p_map_google").removeClass("deselect-home");
+
+
+            $("#line_fotos").addClass("hide");
+            $("#line_fotos").removeClass("show");
+            $("#fotos_carousel").removeClass("select-home");
+            $("#fotos_carousel").addClass("deselect-home");
+            $("#p_fotos_carousel").removeClass("select-home");
+            $("#p_fotos_carousel").addClass("deselect-home");            
+
+        });
+
+        $("#fotos_carousel").click(function(){
+            $("#line_fotos").addClass("show");
+            $("#line_fotos").removeClass("hide");
+            $("#fotos_carousel").addClass("select-home");
+            $("#fotos_carousel").removeClass("deselect-home");
+            $("#p_fotos_carousel").addClass("select-home");
+            $("#p_fotos_carousel").removeClass("deselect-home");
+
+            $("#line_map").addClass("hide");
+            $("#line_map").removeClass("show");
+            $("#map_google").removeClass("select-home");
+            $("#map_google").addClass("deselect-home");
+            $("#p_map_google").removeClass("select-home");
+            $("#p_map_google").addClass("deselect-home");            
+
+        });
+
+    </script>
+
 </body>
 
 </html>

@@ -449,3 +449,13 @@ img.hover-shadow {
   background: url(../img/corp/4.jpg) no-repeat center;
   background-size: 100% 300%;
 }
+
+.select-home{
+  background-color: #C24F56  !important;
+  color: #fff !important;
+}
+
+.deselect-home{
+  background-color: #C5CED6 !important; 
+  color: #737373 !important;
+}
