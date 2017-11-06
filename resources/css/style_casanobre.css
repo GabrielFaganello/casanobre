@@ -318,3 +318,26 @@ img.hover-shadow {
 .img-width-ambiente{
   width:100%;
 }
+
+.main-ambiente {
+  height: 70%;
+  padding: 60px 0;
+  z-index: 1;
+  text-align: center;
+  position: relative;
+  font-size: 13px;
+  color: #fff;
+  background: #000;
+  min-height: 100px !important;
+}
+
+.cozinha-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/kitchen/16.jpg) no-repeat center;
+  background-size: 100% 300%;
