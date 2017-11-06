@@ -1,0 +1,7 @@
+git pull para puxar todos os arquivos da nuvem pro pc
+git push manda todos os arquivos do pc pra nuvem
+git status para fazer uma comparação dos arquivos da nuvem com os do pc
+git clone puxa pela primeira vez o projeto para sua maquina(sempre pela primeira vez)
+git reset -- hard origin/"branch a ser utilizado" como se fosse um "restaurar sistema"
+git add --all
+git commit -m "descrição"
