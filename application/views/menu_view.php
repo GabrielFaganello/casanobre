@@ -34,7 +34,7 @@
     <nav class="navbar navbar-default navbar-fixed-top" style="background-color: rgb(248,248,248,0.65) !important; border-color: rgb(248,248,248,0.65) !important; border: 0px !important">
         <div class="container">
             <div class="navbar-header">
-                <a href="index.html">
+                <a href="<?=base_url();?>">
                     <img src="resources/img/logo_claro.png" class="logo" style="height: 50px;"></img>
                 </a>
             </div>
