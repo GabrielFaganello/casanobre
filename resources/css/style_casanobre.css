@@ -434,7 +434,7 @@ img.hover-shadow {
   right: 0;
   bottom: 0;
   left: 0;
-  background: url(../img/??) no-repeat center;
+  background: url(../img/corp/1) no-repeat center;
   background-size: 100% 300%;
 }
 
@@ -449,3 +449,4 @@ img.hover-shadow {
   background: url(../img/corp/4.jpg) no-repeat center;
   background-size: 100% 300%;
 }
+

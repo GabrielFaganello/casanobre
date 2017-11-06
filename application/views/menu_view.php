@@ -65,7 +65,7 @@
                                             <a class="dropdown-content-property letter-change" href="<?=base_url('home_theaters');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> HOME THEATER</a>
                                         </li>
                                         <li class="menu-hover" style="padding: 0px; margin: 0px;">
-                                            <a class="dropdown-content-property letter-change" href="<?=base_url('');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
+                                            <a class="dropdown-content-property letter-change" href="<?=base_url('corp');?>" style="font-family: Bold_Font !important; color: #fff; padding: 10px 5px 10px 60px; margin: 0px !important; letter-spacing: 2px;">> CORPORATIVOS</a>
                                         </li>  
 
                                     </ul>
