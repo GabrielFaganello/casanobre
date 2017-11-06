@@ -74,7 +74,7 @@
     <section class="main-ambiente" id="home" style="padding: 0px">
         <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
             <div class="col-md-8 col-md-offset-2">
-                <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 200px !important; margin-top: 30px;">
+                <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 200px !important; margin-top: 65px;">
             </div>
         </div>
         <div class="wcs-bg"></div>
