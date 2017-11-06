@@ -72,10 +72,10 @@
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;CONTATO</a>
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;MAIS?<br> Acesse nossas redes</a>
                                     <div class="col-md-3 col-md-offset-2 text-center menu-hover" style="margin-bottom: 35px; color: #fff;">
-                                        <a href=""><i class="fa fa-facebook fa-2x letter-change text-center" aria-hidden="true" ></i></a>
+                                        <a href="https://www.facebook.com/Casa-Nobre-Planejados-1017788221624088/"><i class="fa fa-facebook fa-2x letter-change text-center" aria-hidden="true" ></i></a>
                                     </div>
                                     <div class="col-md-3 col-md-offset-2 text-center menu-hover" style="margin-bottom: 35px; color: #fff;">
-                                        <a href=""><i class="fa fa-instagram fa-2x letter-change text-center" aria-hidden="true" ></i></a>
+                                        <a href="https://www.instagram.com/casanobreoficial/"><i class="fa fa-instagram fa-2x letter-change text-center" aria-hidden="true" ></i></a>
                                     </div>
                               </div>
                                 </div >
