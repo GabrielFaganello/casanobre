@@ -242,3 +242,63 @@ img.hover-shadow {
 .hover-shadow:hover {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
+
+
+/* CLASSES DO DROP MENU*/
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(194,79,86,1) !important;
+    min-width: 160px;
+}
+
+/* Links inside the dropdown */
+.dropdown-content-property
+{
+    color: black;
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 300px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.menu-hover:hover {
+	background-color: #fff !important;
+	color: #C24F56 !important;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+
+}
+
+.letter-change:hover {
+	background-color: #fff !important;
+	color: #C24F56 !important;
+}
+
