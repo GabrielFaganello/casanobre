@@ -166,91 +166,9 @@
        </div>
     </section>
 
-    <section style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
-        <div class="container-fluid bg-dark" >
-            <div class="container">
-                <div class="row text-center" style="font-family: Alt_Light !important;">
-                    <h2>Conheça nossos ambientes</h2>
-                </div>
-                <div class="row text-center">
-                    <div class="col-md-12 text-center" style="font-family: Bold_Font; font-size: 14px;">
-                        <p><b>Móveis planejados para:</b></p><br>    
-                    </div>
-                </div>
-
-                <div class="col-sm-3 port-item margin-b-md">
-                    <a href="cozinha.html">
-                        <div class="item-img-wrap">
-                            <p style="position: absolute; margin-top: 25%; margin-left: 40%; color: #fff; z-index: 100; letter-spacing:1px !important;">[ COZINHA ]</p>  
-                            <div class="shadow"></div>
-                            <img src="resources/img/cozinha_mini.jpg" class="img-responsive" alt="Cozinha">
-                        </div>
-                    </a>
-                </div>
-
-
-                <div class="col-sm-3 port-item margin-b-md">
-                    <a href="banheiro.html">
-                        <div class="item-img-wrap">
-                            <div style="position: absolute; margin-top: 25%; margin-left: 39%; color: #fff;  z-index: 100">[ BANHEIRO ]</div>
-                            <div class="shadow"></div>
-                            <img src="resources/img/banheiros_mini.jpg" class="img-responsive" alt="Banheiro">
-                        </div>
-                    </a>
-                </div>
-
-                <div class="col-sm-3 port-item margin-b-md">
-                    <a href="domitorio.html">
-                        <div class="item-img-wrap">
-                            <div style="position: absolute; margin-top: 25%; margin-left: 37%; color: #fff;  z-index: 100">[ DORMITÓRIO ]</div>
-                            <div class="shadow"></div>
-                            <img src="resources/img/dormitorios_mini.jpg" class="img-responsive" alt="Dormitório">
-                        </div>
-                    </a>                        
-                </div>
-
-                <div class="col-sm-3 port-item margin-b-md">
-                    <a href="home_theater.html">                    
-                        <div class="item-img-wrap">
-                            <div style="position: absolute; margin-top: 25%; margin-left: 33%; color: #fff;  z-index: 100">[ HOME THEATER ]</div>
-                            <div class="shadow"></div>
-                            <img src="resources/img/home_theather_mini.jpg" class="img-responsive" alt="Home_Theather">
-                        </div>
-                    </a>                    
-                </div>
-            </div>      
-        </div>      
-    </section>
-
+    <?= $this->load->view('ambientes_view'); ?>
   
-    <section id="visit" style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
-              <div class="container">
-                  
-              <div class="row title-sub-cn" style="margin-bottom: 50px !important;">
-                  <div class="col-md-4 text-right">
-                      <a class="font-weight" style="font-weight: bold !important">[</a>
-                  </div>
-                  <div class="col-md-4 text-center">
-                      <p class="title-sub-cn" style="margin-top: 40px;">Venhas no visitar!</p>
-                  </div>
-                  <div class="col-md-4 text-left">
-                      <a class="font-weight" style="font-weight: bold !important">]</a>
-                  </div>
-              </div>
-
-                  <div class="row text-center">
-                          <p style="font-family: Bold_Font; font-size: 18px;">Atualmente trabalhamos nas regiões de São Paulo e Guarulhos.</p>
-                          <p style="font-family: Bold_Italic; font-size: 20px; letter-spacing:1px;">Passe em um de nossos show rooms para nos conhecer, sem compromisso!</p><br>
-                  </div>
-
-                  <div class="row">
-                      <div class="col-md-12 text-center">
-                          <a href="#" class="btn btn-custom-outline-red" style="font-family: Bold_Font; font-size: 18px; letter-spacing:1px;">ENTRE EM CONTATO</a>
-                      </div>
-                  </div>
-
-              </div>
-    </section>
+    <?= $this->load->view('visit_view'); ?>
 
     <section class="main-ambiente" id="home" style="padding: 0px">
         <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
