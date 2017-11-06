@@ -261,7 +261,7 @@
         <div class="cozinha-bg"></div>
     </section>
 
-    <div id="myModal" class="modal">
+    <div id="myModal" class="modal" style="z-index: 101">
       <div class="modal-content">
 
         <div class="mySlides">
