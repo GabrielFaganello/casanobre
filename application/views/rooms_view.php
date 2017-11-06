@@ -2,14 +2,14 @@
       <div class="home-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Cozinha ]</p>
+        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Dormitórios ]</p>
         </div>
       </div>
     </section>
     <div class="container">
         <div class="row">
                 <div class="col-md-12"> 
-                    <p style="margin-top: 20px; font-family: Regular; font-size: 18px;" class="text-left texto-ambientes"> Conheça alguns de nossos modelos:</p>
+                    <p style="margin-top: 20px; font-family: Regular; font-size: 18px;" class="text-left texto-ambientes">Conheça alguns de nossos modelos:</p>
                 </div>
         </div>
     </div>
