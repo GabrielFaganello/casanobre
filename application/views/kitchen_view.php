@@ -19,8 +19,8 @@
 
     <section style="padding: 20px">
        <div class="container bg-dark">
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_1.jpg" class="img-responsive hover-shadow" alt="Cozinha_1" onclick="openModal();currentSlide(1)">
@@ -34,8 +34,8 @@
                 </div>
             </div>
       
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_3.jpg" class="img-responsive hover-shadow" alt="Cozinha_3" onclick="openModal();currentSlide(3)">
@@ -49,8 +49,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_5.jpg" class="img-responsive hover-shadow" alt="Cozinha_5" onclick="openModal();currentSlide(5)">
@@ -64,8 +64,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_7.jpg" class="img-responsive hover-shadow" alt="Cozinha_7" onclick="openModal();currentSlide(7)">
@@ -79,8 +79,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_9.jpg" class="img-responsive hover-shadow" alt="Cozinha_9" onclick="openModal();currentSlide(9)">
@@ -94,8 +94,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_11.jpg" class="img-responsive hover-shadow" alt="Cozinha_11" onclick="openModal();currentSlide(11)">
@@ -109,8 +109,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                           <img src="resources/img/kitchen/cozinhas_13.jpg" class="img-responsive hover-shadow" alt="Cozinha_13" onclick="openModal();currentSlide(13)">
@@ -124,8 +124,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_15.jpg" class="img-responsive hover-shadow" alt="Cozinha_15" onclick="openModal();currentSlide(15)">
@@ -139,8 +139,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-1 col-md-5" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_17.jpg" class="img-responsive hover-shadow" alt="Cozinha_17" onclick="openModal();currentSlide(17)">
@@ -154,8 +154,8 @@
                 </div>
             </div>
 
-            <div class="row" style="margin-bottom: 20px">
-                <div class="col-md-offset-3 col-md-6" style="margin-right: -10px !important">
+            <div class="row row-margins-ambiente">
+                <div class="col-md-offset-3 col-md-6 col-margins-ambiente">
                     <div class="item-img-wrap">
                         <div class="img-responsive"></div>
                          <img src="resources/img/kitchen/cozinhas_19.jpg" class="img-responsive hover-shadow" alt="Cozinha_19" onclick="openModal();currentSlide(19)">
@@ -185,115 +185,115 @@
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">1 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_1.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_1.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">2 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_2.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_2.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">3 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_3.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_3.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">4 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_4.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_4.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">5 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_5.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_5.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">6 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_6.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_6.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">7 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_7.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_7.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">8 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_8.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_8.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">9 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_9.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_9.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">10 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_10.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_10.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">11 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_11.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_11.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">12 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_12.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_12.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">13 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_13.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_13.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">14 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_14.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_14.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">15 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_15.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_15.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">16 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_16.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_16.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">17 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_17.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_17.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">18 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_18.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_18.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">19 / 19</div>
-          <img src="resources/img/kitchen/cozinhas_19.jpg" style="width:100%">
+          <img src="resources/img/kitchen/cozinhas_19.jpg" class="img-width-ambiente">
         </div>
 
         <a class="prev" style="color: #fff !important;" onclick="plusSlides(-1)">&#10094;</a>

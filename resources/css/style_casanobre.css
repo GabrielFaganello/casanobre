@@ -306,3 +306,15 @@ img.hover-shadow {
   color: #000 !important; 
   opacity: 0.7 !important;
 }
+
+.row-margins-ambiente{
+  margin-bottom: 20px;
+}
+
+.col-margins-ambiente{
+  margin-right: -10px !important;
+}
+
+.img-width-ambiente{
+  width:100%;
+}
