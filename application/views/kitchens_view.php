@@ -1,6 +1,6 @@
 
     <section class="main-home home-size" id="home">
-      <div class="home-bg"></div>
+      <div class="kitchens-top-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
         <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Cozinha ]</p>
@@ -174,10 +174,10 @@
     <section class="main-ambiente" id="home" style="padding: 0px">
         <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
             <div class="col-md-8 col-md-offset-2">
-                <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 150px !important; margin-top: 25px">
+                <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 150px !important; margin-top: 55px">
             </div>
         </div>
-        <div class="cozinha-bg"></div>
+        <div class="kitchens-bg"></div>
     </section>
 
     <div id="myModal" class="modal" style="z-index: 101">

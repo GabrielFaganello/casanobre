@@ -328,10 +328,22 @@ img.hover-shadow {
   font-size: 13px;
   color: #fff;
   background: #000;
-  min-height: 100px !important;
+  min-height: 250px !important;
 }
 
-.cozinha-bg{
+.kitchens-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/cozinha_home.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.kitchens-bg{
   z-index: -1;
   position: absolute;
   top: 0;
@@ -341,3 +353,99 @@ img.hover-shadow {
   left: 0;
   background: url(../img/kitchen/16.jpg) no-repeat center;
   background-size: 100% 300%;
+}
+
+.wcs-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/banheiros_mini.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.wcs-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/wc/3.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.rooms-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/dormitorios_mini.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.rooms-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/rooms/6.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+.ht-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/home_theather_mini.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.ht-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/home-theater/11.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.corp-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/??) no-repeat center;
+  background-size: 100% 300%;
+}
+
+.corp-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/corp/4.jpg) no-repeat center;
+  background-size: 100% 300%;
+}

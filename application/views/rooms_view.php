@@ -1,6 +1,6 @@
 
     <section class="main-home home-size" id="home">
-      <div class="home-bg"></div>
+      <div class="rooms-top-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
         <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Dormitórios ]</p>
@@ -138,7 +138,7 @@
                 <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 200px !important; margin-top: 65px">
             </div>
         </div>
-        <div class="cozinha-bg"></div>
+        <div class="rooms-bg"></div>
     </section>
 
     <div id="myModal" class="modal" style="z-index: 101">
