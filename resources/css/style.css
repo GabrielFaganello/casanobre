@@ -274,7 +274,7 @@ nav.small {
 /* 6 Home
 ----------------------------------------------------------------------------- */
 .main-home {
-	height: 100%;
+	height: 100vh;
 	padding: 60px 0;
 	z-index: 1;
 	text-align: center;
@@ -284,7 +284,7 @@ nav.small {
 	background: #000;
 	min-height: 400px;
 }
-go
+
 .home__header-content {
 	-webkit-transform: translateY(-50%);
 	-ms-transform: translateY(-50%);
