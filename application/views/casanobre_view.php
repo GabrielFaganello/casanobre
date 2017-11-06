@@ -89,7 +89,7 @@
 
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="banheiro.html">
+                    <a href="<?=base_url('wc');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 31%; color: #fff; z-index: 100; letter-spacing:2px !important;">[BANHEIRO]</p>  
                             <div class="shadow"></div>
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="domitorio.html">
+                    <a href="<?=base_url('room');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 27%; color: #fff; z-index: 100; letter-spacing:2px !important;">[DORMITÓRIO]</p>  
                             <div class="shadow"></div>
@@ -109,7 +109,7 @@
                 </div>
 
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
-                    <a href="home_theater.html">                    
+                    <a href="<?=base_url('home_theater');?>">
                         <div class="item-img-wrap">
                             <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 21%; color: #fff; z-index: 100; letter-spacing:2px !important;">[HOME THEATER]</p>  
                             <div class="shadow"></div>
