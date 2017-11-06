@@ -274,7 +274,7 @@ nav.small {
 /* 6 Home
 ----------------------------------------------------------------------------- */
 .main-home {
-	height: 100vh;
+	height: 100%;
 	padding: 60px 0;
 	z-index: 1;
 	text-align: center;
@@ -285,7 +285,7 @@ nav.small {
 	min-height: 400px;
 }
 .main-ambiente {
-	height: 60vh;
+	height: 100%;
 	padding: 60px 0;
 	z-index: 1;
 	text-align: center;
@@ -313,7 +313,7 @@ nav.small {
 	bottom: 0;
 	left: 0;
 	background: url(../img/cozinha_home.jpg) no-repeat center;
-	background-size: 100% 100%;
+	background-size: 100% 200%;
 	
 }
 .cozinha-bg{
@@ -325,7 +325,7 @@ nav.small {
 	bottom: 0;
 	left: 0;
 	background: url(../img/kitchen/cozinhas_16.jpg) no-repeat center;
-	background-size: 100% 100%;
+	background-size: 100% 200%;
 	
 }
 .intro-title {
