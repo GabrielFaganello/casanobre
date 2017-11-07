@@ -43,7 +43,7 @@
     <script src="resources/js/app.js" type="text/javascript"></script>
     <script type="text/javascript" src="resources/js/switcher.js"></script>
 
-    <script type="text/javascript">
+<!--     <script type="text/javascript">
         
         $("#map_google").click(function(){
             $("#line_map").addClass("show");
@@ -80,7 +80,7 @@
 
         });
 
-    </script>
+    </script> -->
 
 </body>
 
