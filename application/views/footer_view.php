@@ -30,6 +30,8 @@
     <script src="resources/js/jquery.counterup.min.js" type="text/javascript"></script>
     <script src="resources/js/jquery.stellar.min.js"></script>
     <script src="resources/js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+    <script src="resources/js/jquery.mask.js" type="text/javascript"></script>
+    <script src="resources/js/jquery.mask.min.js" type="text/javascript"></script>
     <script type="text/javascript">
         <!-- cross browser -->
         window.requestAnimationFrame || (window.requestAnimationFrame = function() {

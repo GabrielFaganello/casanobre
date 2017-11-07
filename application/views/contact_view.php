@@ -9,31 +9,32 @@
 
     <section>
         <form>
-            <label for="nome">Nome</label>
-            <input type="text" id="nome">
+            <label for="nome"></label>
+            <input type="text" id="nome" placeholder="Nome" required autofocus>
             <br><br>
         </form>
         <form>
-            <label for="email">Email</label>
-            <input type="text" id="email">
+            <label for="email"></label>
+            <input type="email" id="email" email="Email" placeholder="Email" required>
             <br><br>
         </form>
         <form>
-            <label for="ddd">DDD</label>
-            <input type="text" id="ddd">
-            <label for="fone">Telefone</label>
-            <input type="text" id="fone">
-        </form>
-        <form>
-            <label for="assunto">Assunto</label>
-            <input type="text" id="assunto">
+            
+            <label for="fone"></label>
+            <input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000">
             <br><br>
         </form>
         <form>
-            <label for="mensagem">Mensagem</label>
-            <input type="text" id="mensagem">
+            <label for="assunto"></label>
+            <input type="text" id="assunto" placeholder="Assunto" required>
             <br><br>
         </form>
+        <form>
+            <textarea for="mensagem" type="text" id="mensagem" placeholder="Mensagem" required></textarea>
+            <br><br>
+            <input type="submit" name="Enviar" value="Enviar">
+        </form>
+
 
     </section>
 
