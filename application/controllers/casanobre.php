@@ -48,4 +48,11 @@ class Casanobre extends CI_Controller {
 		$this->load->view('corp_view', $data);
 		$this->load->view('footer_view');
 	}
+	public function contact()
+	{
+		$data['folder'] = 'contact';
+		$this->load->view('menu_view');
+		$this->load->view('contact_view', $data);
+		$this->load->view('footer_view');
+	}
 }
