@@ -449,6 +449,17 @@ img.hover-shadow {
   background: url(../img/corp/4.jpg) no-repeat center;
   background-size: 100% 300%;
 }
+.contact-top-bg{
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  opacity: 0.50;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: url(../img/cozinha_home.jpg) no-repeat center;
+  background-size: 100% 300%;
+}
 
 .select-home{
   background-color: #C24F56  !important;

@@ -45,6 +45,7 @@ $route['rooms'] = "casanobre/rooms";
 $route['wcs'] = "casanobre/wcs";
 $route['home_theaters'] = "casanobre/home_theaters";
 $route['corp'] = "casanobre/corp";
+$route['contact'] = "casanobre/contact";
 
 
 /* End of file routes.php */
