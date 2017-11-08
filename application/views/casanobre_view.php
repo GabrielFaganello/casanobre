@@ -32,10 +32,10 @@
                     <!-- <div class="col-md-1 text-left"><i class="fa fa-quote-right fa-3x" style="color: #F1BDC4;"></div> -->
                     </div>
                     <div class="row">
-                        <div class="col-md-2 col-md-offset-3" style="width: 15%;">
+                        <div class="col-md-2 col-md-offset-3" style="width: 25%;">
                             <img alt="image" class="img-circle" src="resources/img/test-1.jpg">
                         </div>
-                        <div class="col-md-7 text-left pull-left">
+                        <div class="col-md-4  text-left pull-left">
                             <p></p>
                             <p style="font-family: Bold_Font; line-height: 18px;">Izabel Pacheco<br>
                             <span style="font-family: Regular;">Fez cozinha e banheiro<br>
@@ -50,10 +50,10 @@
 
                     </div>
                     <div class="row">
-                        <div class="col-md-2 col-md-offset-3" style="width: 15%; margin-left: 11%;">
+                        <div class="col-md-2 col-md-offset-1" style="width: 25%;">
                             <img alt="image" class="img-circle" src="resources/img/test-1.jpg">
                         </div>
-                        <div class="col-md-7 text-left pull-left">
+                        <div class="col-md-4 text-left pull-left">
                             <p></p>
                             <p style="font-family: Bold_Font; line-height: 18px;">Chaves<br>
                             <span style="font-family: Regular;">Fez o baú<br>
