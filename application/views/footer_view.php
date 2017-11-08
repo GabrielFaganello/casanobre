@@ -1,7 +1,6 @@
         <section style="margin-bottom: 0px !important; padding-bottom: 1px !important; padding-top: 0px !important;">
-            <div class="container-fluid" style="font-weight: normal !important;" >
-                <div class="row" style="background-color: #383838 !important;  height: 150px !important; padding-top: 40px !important;">
-
+            <div class="container-fluid" >
+                <div class="row" style="background-color: #383838 !important;  height: 200px !important; padding-top: 5% !important; font-weight:normal !important;">
                     <div class=" col-md-2 col-md-offset-3">
                         <img src="resources/img/logo_branco.png" class="logo" style="height: 70px !important; margin-top: -10px;"></img>
                     </div>
@@ -14,14 +13,12 @@
                            Guarulhos - Av. Torres Tibagy, 870. Gopouva</p>
                     </div>
                 </div>
-            <div class="row footer text-center">
-                <div class="col-md-12">
-                    <p>Copyrights 2017 <a style="color: white;">casanobreplanejados.com.br</a> Todos os direitos reservados.</p>
-                </div>
-            </div >
             </div>
         </section>
 
+    <footer class="footer text-center" style="font-weight:normal !important;">
+        <p>Copyrights 2017 <a style="color: white;">casanobreplanejados.com.br</a> Todos os direitos reservados.</p>
+    </footer>
 
     <script src="resources/js/jquery.min.js"></script>
     <script src="resources/js/casanobre.js"></script>
