@@ -25,41 +25,41 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6">
-                    <div class="row">
-                        <div class="col-md-1 col-md-offset-3 text-right"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></div>
-                        <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os móveis da <br>Casa Nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
-                    <!-- <div class="col-md-1 text-left"><i class="fa fa-quote-right fa-3x" style="color: #F1BDC4;"></div> -->
-                    </div>
-                    <div class="row">
-                        <div class="col-md-2 col-md-offset-3" style="width: 25%;">
-                            <img alt="image" class="img-circle" src="resources/img/test-1.jpg">
-                        </div>
-                        <div class="col-md-4  text-left pull-left">
-                            <p></p>
-                            <p style="font-family: Bold_Font; line-height: 18px;">Izabel Pacheco<br>
-                            <span style="font-family: Regular;">Fez cozinha e banheiro<br>
-                            com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
-                        </div>                    
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="row">
-                        <div class="col-md-12" style="font-family: Thin_Italic;">
+                <div class="col-md-6" style="text-align: center;">
+                      <div class="col-md-12" style="font-family: Thin_Italic;">
                             <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
-                            <span >Montar minha casa com os móveis da</span><br>
-                            <span style="padding-left: 6%;">&nbsp;&nbsp;&nbsp;&nbsp;Casa Nobre foi a melhor escolha.</span><br>
-                            <span style="padding-left: 10%;"> Ótimo atendimento!<br></span>
-                            <span><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></span>
+                            <span>Montar minha casa com os móveis da</span><br>
+                            <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
+                            <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
+                            <i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; padding-left: 50%"></i>
+                        </div>
+                    <div class="row">
+                            <div class="col-md-4 col-md-offset-3" style="width: 25%;">
+                                <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
+                            </div>
+                            <div style="padding-top: 2%" class="col-md-4  text-left pull-left" ">
+                                <p style="font-family: Bold_Font; line-height: 18px;">Izabel Pacheco<br>
+                                <span style="font-family: Regular;">Fez cozinha e banheiro<br>
+                                com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
+                            </div>
+                    </div>                        
+                </div>
+                <div class="col-md-6" style="text-align: center;">
+                    <div class="row">
+                        <div class="col-md-12" style="font-family: Thin_Italic;>
+                            <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
+                            <span>Montar minha casa com os móveis da</span><br>
+                            <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
+                            <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
+                            <i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; padding-left: 50%"></i>
                         </div>
 
                     </div>
-                    <div class="row">
-                        <div class="col-md-2 col-md-offset-1" style="width: 25%;">
-                            <img alt="image" class="img-circle" src="resources/img/test-1.jpg">
+                    <div class="row bloco-cliente">
+                        <div class="col-md-2 col-md-offset-3" style="width: 25%;">
+                            <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
                         </div>
-                        <div class="col-md-4 text-left pull-left">
-                            <p></p>
+                        <div style="padding-top: 2%;" class="col-md-4 text-left pull-left">
                             <p style="font-family: Bold_Font; line-height: 18px;">Chaves<br>
                             <span style="font-family: Regular;">Fez o baú<br>
                             com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
