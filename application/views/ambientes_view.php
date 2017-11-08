@@ -13,18 +13,17 @@
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
                     <a href="<?=base_url('kitchens');?>">
                         <div class="item-img-wrap">
-                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 32%; color: #fff; z-index: 100; letter-spacing:2px !important;">[COZINHA]</p>  
+                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; padding-left: 34%; color: #fff; z-index: 100; letter-spacing:2px !important;">[COZINHA]</p>  
                             <div class="shadow"></div>
                             <img src="resources/img/cozinha_mini.jpg" class="img-responsive" alt="Cozinha">
                         </div>
                     </a>
                 </div>
 
-
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
                     <a href="<?=base_url('wcs');?>">
                         <div class="item-img-wrap">
-                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 34%; color: #fff; z-index: 100; letter-spacing:2px !important;">[BANHEIRO]</p>  
+                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; padding-left: 33%; color: #fff; z-index: 100; letter-spacing:2px !important;">[BANHEIRO]</p>  
                             <div class="shadow"></div>
                             <img src="resources/img/banheiros_mini.jpg" class="img-responsive" alt="Banheiro">
                         </div>
@@ -34,7 +33,7 @@
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
                     <a href="<?=base_url('rooms');?>">
                         <div class="item-img-wrap">
-                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 29%; color: #fff; z-index: 100; letter-spacing:2px !important;">[DORMITÓRIO]</p>  
+                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; padding-left: 30%; color: #fff; z-index: 100; letter-spacing:2px !important;">[DORMITÓRIO]</p>  
                             <div class="shadow"></div>
                             <img src="resources/img/dormitorios_mini.jpg" class="img-responsive" alt="Dormitório">
                         </div>
@@ -44,7 +43,7 @@
                 <div class="col-sm-3 port-item margin-b-md" style="padding-left: 2px !important; padding-right: 2px !important;">
                     <a href="<?=base_url('home_theaters');?>">
                         <div class="item-img-wrap">
-                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; margin-left: 25%; color: #fff; z-index: 100; letter-spacing:2px !important;">[HOME THEATER]</p>  
+                            <p style="position: absolute; font-family: Extrabold !important; margin-top: 25%; padding-left: 26%; color: #fff; z-index: 100; letter-spacing:2px !important;">[HOME THEATER]</p>  
                             <div class="shadow"></div>
                             <img src="resources/img/home_theather_mini.jpg" class="img-responsive" alt="Home_Theather">
                         </div>

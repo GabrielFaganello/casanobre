@@ -2,8 +2,8 @@
     <section class="main-home home-size" id="home">
       <div class="ht-top-bg"></div>
       <div class="home__header-content">
-      <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Home Theater ]</p>
+        <div class="col-md-offset-1 col-md-11">
+          <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 2px !important; font-size: 38px;">[ Home Theater ]</p>
         </div>
       </div>
     </section>
