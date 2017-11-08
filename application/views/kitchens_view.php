@@ -1,9 +1,9 @@
 
     <section class="main-home home-size" id="home">
-      <div class="kitchens-top-bg"></div>
+      <div class="kitchens-top-bg" style="position: static;"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Cozinha ]</p>
+        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important; margin-top: 3%">[ Cozinha ]</p>
         </div>
       </div>
     </section>
