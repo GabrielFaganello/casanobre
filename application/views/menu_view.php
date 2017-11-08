@@ -41,7 +41,7 @@
 
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="text-center"><a>explorar</a></li>
+                    <!-- <li class="text-center"><a>explorar</a></li> -->
                     <li class="text-center" style="padding-top: 10px !important;">
                         <div class="dropdown">
                             <a class="fa fa-bars fa-2x"></a>
