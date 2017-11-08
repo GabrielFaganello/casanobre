@@ -470,4 +470,9 @@ img.hover-shadow {
   background-color: #C5CED6 !important; 
   color: #737373 !important;
 }
+.margin-red{
+ width: 100%;
+ background: lightblue !important;
+ margin-bottom:40px
+}
 
