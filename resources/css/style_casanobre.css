@@ -246,7 +246,7 @@ img.hover-shadow {
 
 /* CLASSES DO DROP MENU*/
 .dropbtn {
-    background-color: #4CAF50;
+    background-color: #4CAF50 !important;
     color: white;
     padding: 16px;
     font-size: 16px;
@@ -264,7 +264,9 @@ img.hover-shadow {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgb(194,79,86,1) !important;
+    /*background-color: rgb(194,79,86,1) !important;*/
+    background-color: #C24F56 !important;
+    opacity: 1 !important;
     min-width: 160px;
 }
 

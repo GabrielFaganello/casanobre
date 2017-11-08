@@ -45,8 +45,13 @@
                 </div>
                 <div class="col-md-6">
                     <div class="row">
-                        <div class="col-md-1 col-md-offset-1 text-right"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></div>
-                        <div class="col-md-8" style="font-family: Thin_Italic;"><p>Montar minha casa com os móveis da <br>Casa Nobre foi a melhor escolha.<br>Ótimo atendimento!<br><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></p></div>
+                        <div class="col-md-12" style="font-family: Thin_Italic;">
+                            <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
+                            <span >Montar minha casa com os móveis da</span><br>
+                            <span style="padding-left: 6%;">&nbsp;&nbsp;&nbsp;&nbsp;Casa Nobre foi a melhor escolha.</span><br>
+                            <span style="padding-left: 10%;"> Ótimo atendimento!<br></span>
+                            <span><i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; margin-left: 40%"></i></span>
+                        </div>
 
                     </div>
                     <div class="row">
