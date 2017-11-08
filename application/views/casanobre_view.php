@@ -11,16 +11,10 @@
 
     <section class="selection-margin" id="opnion">
         <div class="container">
-            <div class="row">
-                <div class="col-md-4 text-right">
-                    <a class="font-weight">[</a>
-                </div>
-                <div class="col-md-4 title-margin-double text-center">
-                    <p class="title-sub-cn">Encantar os clientes é o<br>nosso maior compromisso!</p>
-                </div>
-                <div class="col-md-4 text-left">
-                    <a class="font-weight">]</a>
-                </div>
+            <div class="row text-center">
+                    <span class="font-weight">[</span>
+                    <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span>
+                    <span class="font-weight">]</span>
             </div>
 
             <div class="row">
@@ -69,16 +63,10 @@
 
     <section class="selection-margin" style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
-            <div class="row title-sub-cn" style="margin-bottom: 35px !important;">
-                <div class="col-md-4 text-right">
-                    <a class="font-weight" style="font-weight: bold !important">[</a>
-                </div>
-                <div class="col-md-4 text-center">
-                    <p class="title-sub-cn" style="margin-top: 40px;">Nossos diferenciais</p>
-                </div>
-                <div class="col-md-4 text-left">
-                    <a class="font-weight" style="font-weight: bold !important">]</a>
-                </div>
+            <div class="row title-sub-cn text-center" style="margin-bottom: 35px !important;">
+                    <span class="font-weight" style="font-weight: bold !important">[</span>
+                    <span class="title-sub-cn" style="margin-bottom: 30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="font-weight" style="font-weight: bold !important">]</span>
                 <br>
                 <br>
             </div>
