@@ -127,7 +127,7 @@
     <?= $this->load->view('visit_view'); ?>
 
         <section style="margin-top: 0px !important; margin-bottom: 0px !important; padding-top: 40px !important; padding-bottom: 0px !important;">
-            <div class="container-fluid" style="margin-bottom: 2px border-color: #C24F56" >
+            <div class="container-fluid" style="border-bottom: 3px solid #C24F56">
                 <div class="row">
                     <div id="map_google" class="col-md-6 text-right select-home" style=" height:50px; margin-left: 0px !important; width:  !important; "><p id="p_map_google" style="padding-top: 13px !important; font-size: 18px !important; color: #fff">Localização</p></div>
 
@@ -167,10 +167,6 @@
 
                     </div>
                     </div> -->
-                </div>                
-                <div class="row">
-                    <div class="col-md-12" style="background-color: #C24F56 !important; height:3px; margin-left: 0px !important; width:  !important;"></div>
-                </div>                
-            </div>
+                
         </section>
 
