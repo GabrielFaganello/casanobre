@@ -48,9 +48,6 @@
     <script src="resources/js/app.js" type="text/javascript"></script>
     <script type="text/javascript" src="resources/js/switcher.js"></script>
 
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
-      
 </body>
 
 </html>
