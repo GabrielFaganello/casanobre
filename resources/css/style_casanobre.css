@@ -310,11 +310,12 @@ img.hover-shadow {
 }
 
 .row-margins-ambiente{
-  margin-bottom: 20px;
+  /*margin-bottom: 5%;*/
 }
 
 .col-margins-ambiente{
-  margin-right: -10px !important;
+  /*margin-right: -10px !important;*/
+  margin-bottom: 2% !important;
 }
 
 .img-width-ambiente{

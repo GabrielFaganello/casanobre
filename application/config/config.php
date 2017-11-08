@@ -24,9 +24,9 @@
 */
 
 $server = (isset($_SERVER["HTTP_HOST"])) ? $_SERVER["HTTP_HOST"] : '127.0.0.1';
-$projects = (isset($_SERVER["HTTP_HOST"])) ? 'casanobre/' : '';
 
-$config['base_url']  = 'http://'.$server.'/'.$projects;
+// $config['base_url']  = 'http://'.$server.'/';
+$config['base_url']  = 'http://'.$server.'/casanobre/';
 
 /*
 |--------------------------------------------------------------------------

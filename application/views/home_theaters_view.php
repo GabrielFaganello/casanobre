@@ -17,98 +17,100 @@
 
  
 
-
-    <section style="padding: 20px">
+    <section style="padding: 2%">
        <div class="container bg-dark">
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/1.jpg" class="img-responsive hover-shadow" alt="Cozinha_1" onclick="openModal();currentSlide(1)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/2.jpg" class="img-responsive hover-shadow" alt="Cozinha_2" onclick="openModal();currentSlide(2)">
-                    </div>
-                </div>
-            </div>
-      
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/3.jpg" class="img-responsive hover-shadow" alt="Cozinha_3" onclick="openModal();currentSlide(3)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/4.jpg" class="img-responsive hover-shadow" alt="Cozinha_4" onclick="openModal();currentSlide(4)">
-                    </div>
+          <div class="col-md-5 col-md-offset-1" style="padding: 1%;">
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/1.jpg" class="img-responsive hover-shadow" alt="Home_Theater_1" onclick="openModal();currentSlide(1)">
                 </div>
             </div>
 
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/5.jpg" class="img-responsive hover-shadow" alt="Cozinha_5" onclick="openModal();currentSlide(5)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/6.jpg" class="img-responsive hover-shadow" alt="Cozinha_6" onclick="openModal();currentSlide(6)">
-                    </div>
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/2.jpg" class="img-responsive hover-shadow" alt="Home_Theater_2" onclick="openModal();currentSlide(3)">
                 </div>
             </div>
 
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/7.jpg" class="img-responsive hover-shadow" alt="Cozinha_7" onclick="openModal();currentSlide(7)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/8.jpg" class="img-responsive hover-shadow" alt="Cozinha_8" onclick="openModal();currentSlide(8)">
-                    </div>
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/3.jpg" class="img-responsive hover-shadow" alt="Home_Theater_3" onclick="openModal();currentSlide(5)">
                 </div>
             </div>
 
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/9.jpg" class="img-responsive hover-shadow" alt="Cozinha_9" onclick="openModal();currentSlide(9)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/10.jpg" class="img-responsive hover-shadow" alt="Cozinha_10" onclick="openModal();currentSlide(10)">
-                    </div>
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/4.jpg" class="img-responsive hover-shadow" alt="Home_Theater_4" onclick="openModal();currentSlide(7)">
                 </div>
             </div>
 
-            <div class="row row-margins-ambiente">
-                <div class="col-md-offset-1 col-md-5 col-margins-ambiente">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/11.jpg" class="img-responsive hover-shadow" alt="Cozinha_11" onclick="openModal();currentSlide(11)">
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="item-img-wrap">
-                        <div class="img-responsive"></div>
-                         <img src="resources/img/<?=$folder?>/12.jpg" class="img-responsive hover-shadow" alt="Cozinha_12" onclick="openModal();currentSlide(12)">
-                    </div>
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/5.jpg" class="img-responsive hover-shadow" alt="Home_Theater_5" onclick="openModal();currentSlide(9)">
                 </div>
             </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/6.jpg" class="img-responsive hover-shadow" alt="Home_Theater_6" onclick="openModal();currentSlide(11)">
+                </div>
+            </div>
+
+          </div>
+
+
+          <div class="col-md-5" style="padding: 1%;">
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/7.jpg" class="img-responsive hover-shadow" alt="Home_Theater_7" onclick="openModal();currentSlide(2)">
+                </div>
+            </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/8.jpg" class="img-responsive hover-shadow" alt="Home_Theater_8" onclick="openModal();currentSlide(4)">
+                </div>
+            </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/9.jpg" class="img-responsive hover-shadow" alt="Home_Theater_9" onclick="openModal();currentSlide(6)">
+                </div>
+            </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/10.jpg" class="img-responsive hover-shadow" alt="Home_Theater_10" onclick="openModal();currentSlide(8)">
+                </div>
+            </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/11.jpg" class="img-responsive hover-shadow" alt="Home_Theater_11" onclick="openModal();currentSlide(10)">
+                </div>
+            </div>
+
+            <div class="row" style="margin: 1%; padding: 1%;">
+                <div class="item-img-wrap">
+                    <div class="img-responsive"></div>
+                     <img src="resources/img/<?=$folder?>/12.jpg" class="img-responsive hover-shadow" alt="Home_Theater_12" onclick="openModal();currentSlide(12)">
+                </div>
+            </div>
+
+          </div>
 
        </div>
     </section>
@@ -131,73 +133,73 @@
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">1 / 19</div>
+          <div class="numbertext number-photo">1 / 12</div>
           <img src="resources/img/<?=$folder?>/1.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">2 / 19</div>
-          <img src="resources/img/<?=$folder?>/2.jpg" class="img-width-ambiente">
-        </div>
-
-        <div class="mySlides">
-          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">3 / 19</div>
-          <img src="resources/img/<?=$folder?>/3.jpg" class="img-width-ambiente">
-        </div>
-
-        <div class="mySlides">
-          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">4 / 19</div>
-          <img src="resources/img/<?=$folder?>/4.jpg" class="img-width-ambiente">
-        </div>
-
-        <div class="mySlides">
-          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">5 / 19</div>
-          <img src="resources/img/<?=$folder?>/5.jpg" class="img-width-ambiente">
-        </div>
-
-        <div class="mySlides">
-          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">6 / 19</div>
-          <img src="resources/img/<?=$folder?>/6.jpg" class="img-width-ambiente">
-        </div>
-
-        <div class="mySlides">
-          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">7 / 19</div>
+          <div class="numbertext number-photo">2 / 12</div>
           <img src="resources/img/<?=$folder?>/7.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">8 / 19</div>
+          <div class="numbertext number-photo">3 / 12</div>
+          <img src="resources/img/<?=$folder?>/2.jpg" class="img-width-ambiente">
+        </div>
+
+        <div class="mySlides">
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
+          <div class="numbertext number-photo">4 / 12</div>
           <img src="resources/img/<?=$folder?>/8.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">9 / 19</div>
+          <div class="numbertext number-photo">5 / 12</div>
+          <img src="resources/img/<?=$folder?>/3.jpg" class="img-width-ambiente">
+        </div>
+
+        <div class="mySlides">
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
+          <div class="numbertext number-photo">6 / 12</div>
           <img src="resources/img/<?=$folder?>/9.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">10 / 19</div>
+          <div class="numbertext number-photo">7 / 12</div>
+          <img src="resources/img/<?=$folder?>/4.jpg" class="img-width-ambiente">
+        </div>
+
+        <div class="mySlides">
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
+          <div class="numbertext number-photo">8 / 12</div>
           <img src="resources/img/<?=$folder?>/10.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">11 / 19</div>
+          <div class="numbertext number-photo">9 / 12</div>
+          <img src="resources/img/<?=$folder?>/5.jpg" class="img-width-ambiente">
+        </div>
+
+        <div class="mySlides">
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
+          <div class="numbertext number-photo">10 / 12</div>
           <img src="resources/img/<?=$folder?>/11.jpg" class="img-width-ambiente">
         </div>
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
-          <div class="numbertext number-photo">12 / 19</div>
+          <div class="numbertext number-photo">11 / 12</div>
+          <img src="resources/img/<?=$folder?>/6.jpg" class="img-width-ambiente">
+        </div>
+
+        <div class="mySlides">
+          <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
+          <div class="numbertext number-photo">12 / 12</div>
           <img src="resources/img/<?=$folder?>/12.jpg" class="img-width-ambiente">
         </div>
 
