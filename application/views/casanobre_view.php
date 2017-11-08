@@ -11,9 +11,9 @@
 
     <section class="selection-margin" id="opnion">
         <div class="container">
-            <div class="row text-center">
+            <div class="row title-sub-cn text-center">
                     <span class="font-weight">[</span>
-                    <span class="title-sub-cn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosso compromisso!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="title-sub-cn">&nbsp;&nbsp;&nbsp;Nosso compromisso!&nbsp;&nbsp;&nbsp;</span>
                     <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
                     <span class="font-weight">]</span>
             </div>
@@ -73,7 +73,7 @@
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
             <div class="row title-sub-cn text-center" style="margin-bottom: 35px !important;">
                     <span class="font-weight" style="font-weight: bold !important">[</span>
-                    <span class="title-sub-cn" style="margin-bottom: 30%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <span class="title-sub-cn" style="margin-bottom: 30%;">&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;</span>
                     <span class="font-weight" style="font-weight: bold !important">]</span>
                 <br>
                 <br>
