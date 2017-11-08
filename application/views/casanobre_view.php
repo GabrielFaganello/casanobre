@@ -13,7 +13,8 @@
         <div class="container">
             <div class="row text-center">
                     <span class="font-weight">[</span>
-                    <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span>
+                    <span class="title-sub-cn">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nosso compromisso!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                    <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
                     <span class="font-weight">]</span>
             </div>
 
