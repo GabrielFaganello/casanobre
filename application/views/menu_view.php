@@ -33,19 +33,19 @@
 
     <nav class="navbar navbar-default navbar-fixed-top" style="background-color: rgb(248,248,248,0.65) !important; border-color: rgb(248,248,248,0.65) !important; border: 0px !important">
         <div class="container">
-            <div class="navbar-header">
+            <div class="navbar-header text-center">
                 <a href="<?=base_url();?>">
                     <img src="resources/img/logo_claro.png" class="logo" style="height: 50px;"></img>
                 </a>
             </div>
 
-            <div class="collapse navbar-collapse">
+            <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="text-center"><a>explorar</a></li>
                     <li class="text-center" style="padding-top: 10px !important;">
                         <div class="dropdown">
                             <a class="fa fa-bars fa-2x"></a>
-                              <div class="dropdown-content text-left" style="padding: 0px; margin-left:-270px;">
+                              <div class="dropdown-content text-left" style="padding: 0px; margin-left:-150px;">
                                 <div style="opacity: 1 !important;">
                                     
                                 <a class="menu-hover dropdown-content-property" href="<?=base_url('');?>" style="font-family: Bold_Font !important; color: #fff; margin-top: 25px; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;HOME</a>
