@@ -37,7 +37,7 @@
                             <div class="col-md-4 col-md-offset-3" style="width: 25%;">
                                 <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
                             </div>
-                            <div style="padding-top: 2%" class="col-md-4  text-left pull-left" ">
+                            <div style="padding-top: 2.5%" class="col-md-4  text-left pull-left" ">
                                 <p style="font-family: Bold_Font; line-height: 18px;">Izabel Pacheco<br>
                                 <span style="font-family: Regular;">Fez cozinha e banheiro<br>
                                 com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
