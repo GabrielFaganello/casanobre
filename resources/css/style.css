@@ -303,7 +303,7 @@ nav.small {
 	bottom: 0;
 	left: 0;
 	background: url(../img/cozinha_home.jpg) no-repeat center;
-	background-size: auto 100%;
+	/*background-size: auto 100%;*/
 	
 }
 	
@@ -627,7 +627,7 @@ nav.small {
 /* 16 Footer
 ----------------------------------------------------------------------------- */
 .footer {
-	background: #383838;
+	background-color: #383838 !important;
 }
 .footer p{
 	margin-bottom: 0px;

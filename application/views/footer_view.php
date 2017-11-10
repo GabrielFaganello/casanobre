@@ -16,8 +16,8 @@
             </div>
         </section>
 
-    <footer class="footer text-center" style="font-weight:normal !important;">
-        <div class="col-md-12">
+    <footer class="text-center" style="font-weight:normal !important;">
+        <div class="col-md-12 footer">
             <p>Copyrights 2017 <a style="color: white;">casanobreplanejados.com.br</a> Todos os direitos reservados.</p>
         </div>
     </footer>
