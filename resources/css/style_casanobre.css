@@ -417,11 +417,6 @@ img.hover-shadow {
  margin-bottom:40px
 }
 
-.clientes{
-  display: table-cell;
-  vertical-align: middle;
-}
-
-.bloco-clientes{
-  display: table;
+.vertical {
+  display:inline-block;
 }

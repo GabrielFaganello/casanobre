@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row title-sub-cn text-center">
                     <span class="font-weight">[</span>
-                    <span class="title-sub-cn">&nbsp;&nbsp;&nbsp;Nosso compromisso!&nbsp;&nbsp;&nbsp;</span>
+                    <span class="title-sub-cn" style="padding-left: 3%; padding-right: 3%;">Nosso compromisso!</span>
                     <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
                     <span class="font-weight">]</span>
             </div>
@@ -33,7 +33,7 @@
                             <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
                             <i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; padding-left: 50%"></i>
                         </div>
-                    <div class="row">
+                    <div class="row" style="margin-top: auto; margin-left: auto;">
                             <div class="col-md-4 col-md-offset-3" style="width: 25%;">
                                 <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
                             </div>
@@ -55,7 +55,7 @@
                         </div>
 
                     </div>
-                    <div class="row bloco-cliente">
+                    <div class="row" style="margin-top: auto; margin-left: auto;">
                         <div class="col-md-2 col-md-offset-3" style="width: 25%;">
                             <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
                         </div>
