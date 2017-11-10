@@ -1,6 +1,6 @@
 
     <section class="main-home home-size" id="home">
-      <div class="wcs-top-bg"></div>
+      <div class="wcs-top-bg default-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
         <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Banheiros ]</p>
@@ -74,13 +74,13 @@
   
     <?= $this->load->view('visit_view'); ?>
 
-    <section class="main-ambiente" id="home" style="padding: 0px">
+    <section class="main-ambiente" id="home" style="padding: 0px; height: 200px !important;">
         <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
             <div class="col-md-8 col-md-offset-2">
-                <img src="resources/img/NobrezaNasAtitudesWite.png" style="height: 200px !important; margin-top: 65px;">
+                <img src="resources/img/NobrezaNasAtitudesWite.png" style=" margin-top: 73px;">
             </div>
         </div>
-        <div class="wcs-bg"></div>
+        <div class="wcs-bg default-bg"></div>
     </section>
 
     <div id="myModal" class="modal" style="z-index: 101">
