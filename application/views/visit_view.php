@@ -2,9 +2,9 @@
     <div class="container">
         
     <div class="row title-sub-cn text-center" style="margin-bottom: 50px !important;">
-            <span class="font-weight" style="font-weight: bold !important">[</span>
-            <span class="title-sub-cn" style="margin-top: 40px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Venhas no visitar!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-            <span class="font-weight" style="font-weight: bold !important">]</span>
+            <span class="font-weight" style="font-weight: lighter; !important">[</span>
+            <span class="title-sub-cn" style="margin-top: 40px; font-weight: lighter !important"">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Venhas no visitar!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+            <span class="font-weight" style="font-weight: lighter !important">]</span>
     </div>
 
         <div class="row text-center">

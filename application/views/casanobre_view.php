@@ -75,9 +75,9 @@
     <section class="selection-margin" style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
             <div class="row col-md-12 title-sub-cn text-center" style="margin-bottom: 35px !important;">
-                    <span class="font-weight" style="font-weight: bold !important">[</span>
-                    <span class="title-sub-cn" style="margin-bottom: 30%;">&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;</span>
-                    <span class="font-weight" style="font-weight: bold !important">]</span>
+                    <span class="font-weight" style="font-weight: lighter !important;">[</span>
+                    <span class="title-sub-cn" style="margin-bottom: 30%; font-weight: lighter !important;">&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;</span>
+                    <span class="font-weight" style="font-weight: lighter !important;">]</span>
                 <br>
                 <br>
             </div>
