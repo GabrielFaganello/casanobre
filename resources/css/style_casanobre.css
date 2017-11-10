@@ -345,6 +345,11 @@ img.hover-shadow {
   background-size: auto 100%;
 }
 
+.home-bg-cn{
+  background: url(../img/original/kitchen/cozinhas_1.jpg) no-repeat center;
+  background-size: 100% 100% !important;
+}
+
 .kitchens-top-bg{
   background: url(../img/original/kitchen/cozinhas_8.jpg) no-repeat center;
 }
