@@ -35,7 +35,7 @@
         <div class="container">
             <div class="navbar-header text-center">
                 <a href="<?=base_url();?>">
-                    <img src="resources/img/logo_claro.png" class="logo" style="height: 50px;"></img>
+                    <img src="resources/img/logo_claro.png" class="logo" style="height: 50px; padding-top: 5px;  padding-bottom: 5px;"></img>
                 </a>
             </div>
 

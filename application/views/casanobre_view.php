@@ -74,7 +74,7 @@
 
     <section class="selection-margin" style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
-            <div class="row title-sub-cn text-center" style="margin-bottom: 35px !important;">
+            <div class="row col-md-12 title-sub-cn text-center" style="margin-bottom: 35px !important;">
                     <span class="font-weight" style="font-weight: bold !important">[</span>
                     <span class="title-sub-cn" style="margin-bottom: 30%;">&nbsp;&nbsp;&nbsp;Nossos diferenciais&nbsp;&nbsp;&nbsp;</span>
                     <span class="font-weight" style="font-weight: bold !important">]</span>
@@ -105,8 +105,8 @@
                 </div>                                
             </div>
             <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
-                <div class="col-md-8 col-md-offset-2" style="border-bottom: 1px solid;">
-                    <img src="resources/img/NobrezaNasAtitudes.png" style="height: 200px !important; margin-bottom: 0px; padding-bottom: 0px;">
+                <div class="col-md-8 col-md-offset-2 img-responsive" style="border-bottom: 1px solid;">
+                    <img src="resources/img/NobrezaNasAtitudes.png" style="margin-bottom: 0px; padding-bottom: 0px;">
                 </div>
             </div>
         </div>
