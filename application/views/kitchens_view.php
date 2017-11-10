@@ -3,7 +3,7 @@
       <div class="kitchens-top-bg default-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important; font-size: 36px;">[ Cozinha ]</p>
+        <p class="intro-ambiente-cn text-left" style="margin-top: 3em; font-family: Semibold !important; letter-spacing: 4px !important; font-size: 36px;">[ Cozinha ]</p>
         </div>
       </div>
     </section>
@@ -166,7 +166,7 @@
   
     <?= $this->load->view('visit_view'); ?>
 
-    <section class="main-ambiente" id="home" style="padding: 0px; height: 200px !important;">
+    <section class="main-ambiente" style="padding: 0px; height: 200px !important;">
         <div class="row text-center" style="margin: 0px !important; padding: 0px !important;">
             <div class="col-md-8 col-md-offset-2">
                 <img src="resources/img/NobrezaNasAtitudesWite.png" style=" margin-top: 73px;">

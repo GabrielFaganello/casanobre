@@ -8,44 +8,39 @@
     </section>
 
     <section >
-        <form class="col-md-offset-5">
-            <label for="nome"></label>
-            <input type="text" id="nome" placeholder="Nome" required autofocus>
+        <form class="col-md-offset-5 col-md-2">
+            <label style="float: left;" for="nome">Nome:</label>
+            <span style="float: right;"><input type="text" id="nome" placeholder="Nome" required autofocus></span>
+            <br><br>
+        </form>
+        <form class="col-md-offset-5 col-md-2"">
+            
+            <label style="float: left;" for="fone">Telefone:</label>
+            <span style="float: right;"><input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000"></span>
+            <br><br>
+        </form>
+        <form class="col-md-offset-5 col-md-2">
+            <label style="float:left;" for="assunto">Assunto:</label>
+            <span style="float:right;"><input type="text" id="assunto" placeholder="Assunto" required></span>
             <br><br>
         </form>
         <form class="col-md-offset-5" method="POST" action="index.php/welcome/enviar">
  
-            <span id="from">E-mail Remetente (Deve ser @seudominio.com.br):</span>
+            <label for="textDe" id="from">E-mail:</label>
             <input id="textDe" type="text" name="txt_de"/>
             <br><br>
  
-            <span id="destiny">E-mail de Destino:</span>
+            <label for="textPara" id="destiny">E-mail de Destino:</label>
             <input id="textPara" type="text" name="txt_para"/>
             <br><br>
             
-            <span id="text">Mensagem:</span>
+            <label for="textMsg" id="text">Mensagem:</label><br>
             <textarea name="txt_msg" id="textMsg" rows=""></textarea>
             <br><br>
 
             <input id="ButtonEnviar" type="submit" name="env" value="Enviar E-mail"/>
             <br><br>
  
-        </form>
-        <form class="col-md-offset-5">
-            
-            <label for="fone"></label>
-            <input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000">
-            <br><br>
-        </form>
-        <form class="col-md-offset-5">
-            <label for="assunto"></label>
-            <input type="text" id="assunto" placeholder="Assunto" required>
-            <br><br>
-        </form>
-        <form class="col-md-offset-5">
-            <textarea for="mensagem" type="text" id="mensagem" placeholder="Mensagem" required></textarea>
-            <br><br>
-            <input type="submit" name="Enviar" value="Enviar">
         </form>
         
  

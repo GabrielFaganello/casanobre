@@ -46,7 +46,7 @@
                 </div>
                 <div class="col-md-6" style="text-align: center;">
                     <div class="row">
-                        <div class="col-md-12" style="font-family: Thin_Italic;>
+                        <div class="col-md-12" style="font-family: Thin_Italic;"">
                             <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
                             <span>Montar minha casa com os móveis da</span><br>
                             <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
@@ -59,7 +59,7 @@
                         <div class="col-md-2 col-md-offset-3" style="width: 25%;">
                             <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
                         </div>
-                        <div style="padding-top: 2%;" class="col-md-4 text-left pull-left">
+                        <div style="padding-top: 2.5%;" class="col-md-4 text-left pull-left">
                             <p style="font-family: Bold_Font; line-height: 18px;">Chaves<br>
                             <span style="font-family: Regular;">Fez o baú<br>
                             com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>

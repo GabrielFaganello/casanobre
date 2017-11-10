@@ -85,7 +85,6 @@
 	font-size: 50px;
 	text-shadow: rgba(0,0,0,0.498039) 2px 2px 2px;
 	letter-spacing: 0.02em;
-	margin-top: 4.5% ;
 	font-family: 'Semibold' !important;
 }
 .texto-ambientes{ /*Conheça alguns de nossos modelos*/
@@ -417,6 +416,3 @@ img.hover-shadow {
  margin-bottom:40px
 }
 
-.vertical {
-  display:inline-block;
-}
