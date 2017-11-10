@@ -3,7 +3,7 @@
       <div class="wcs-top-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;">[ Banheiros ]</p>
+        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;font-size: 36px;">[ Banheiros ]</p>
         </div>
       </div>
     </section>
