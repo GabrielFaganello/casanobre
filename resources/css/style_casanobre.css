@@ -72,12 +72,6 @@
 	max-width: 50% !important;
 }
 
-
-.home-size {/* Diminuir pela metade a altura da home*/
-	height: 50% !important;
-	min-height: 200px !important;
-}
-
 .intro-ambiente-cn { /*Nome do ambiente*/
 	font-weight: 900;
 	color: #ffffff;
@@ -335,7 +329,7 @@ img.hover-shadow {
 
 
 
-
+    /*Configurações tela grande*/
 @media screen and (min-width: 720px) {
 
   .default-bg-home{
@@ -367,6 +361,7 @@ img.hover-shadow {
     font-size: 38px !important;
   }  
 
+
   .home-padding{
     /*vazio*/
   }
@@ -393,8 +388,14 @@ img.hover-shadow {
     font-family: Bold_Font; 
     font-size: 18px;
   }
+  .home-size {/* Diminuir pela metade a altura da home*/
+  height: 50% !important;
+  min-height: 200px !important;
+  }
+
 }
 
+    /*Configuração mobile*/
 @media screen and (max-width: 720px) {
 
   .default-bg-home{
@@ -453,6 +454,10 @@ img.hover-shadow {
     font-size: 18px;
     margin-bottom: 10%;
   }
+  .home-size {/* Diminuir pela metade a altura da home*/
+    height: 100% !important;
+    min-height: 200px !important;
+    }
 
 }
 

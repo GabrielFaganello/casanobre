@@ -1,5 +1,5 @@
 
-    <section class="main-home home-size" id="home">
+    <section class="main-home home-size">
       <div class="rooms-top-bg default-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
