@@ -178,7 +178,7 @@
     <div id="myModal" class="modal" style="z-index: 101">
       <div class="modal-content">
 
-        <div class="mySlides">
+        <div class="mySlides" id="myModal" onblur="fecha()">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">1 / 19</div>
           <img src="resources/img/<?=$folder?>/1.jpg" class="img-width-ambiente">
