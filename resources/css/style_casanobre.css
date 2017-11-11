@@ -334,20 +334,39 @@ img.hover-shadow {
   min-height: 250px !important;
 }
 
-.default-bg{
-  z-index: -1;
-  position: absolute;
-  top: 0;
-  opacity: 0.50;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-size: auto 100%;
+
+@media screen and (min-width: 720px) {
+
+  .default-bg{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    opacity: 0.50;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: 100% 100% !important;
+  }
+
+}
+
+@media screen and (max-width: 720px) {
+
+  .default-bg{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    opacity: 0.50;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: auto 100% !important;
+  }
+
 }
 
 .home-bg-cn{
   background: url(../img/original/kitchen/cozinhas_1.jpg) no-repeat center;
-  background-size: 100% 100% !important;
 }
 
 .kitchens-top-bg{
