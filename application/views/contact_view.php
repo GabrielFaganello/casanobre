@@ -1,4 +1,4 @@
-   <section class="main-home home-size" id="home">
+   <section class="main-home home-size">
       <div class="contact-top-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">

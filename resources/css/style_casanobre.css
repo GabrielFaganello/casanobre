@@ -60,7 +60,7 @@
 .title-sub-cn { /* Titulo dentro do [ ]*/
 	font-family: 'Alt_Light' !important;
 	font-size: 24px !important;
-	/*margin-bottom: 12px !important;*/
+	margin-bottom: 12px !important;
 }
 
 .selection-margin { /* Diminuir a margen da seção*/
@@ -70,12 +70,6 @@
 
 .img-cn { /* Diminuir a margen da seção*/
 	max-width: 50% !important;
-}
-
-
-.home-size {/* Diminuir pela metade a altura da home*/
-	height: 50% !important;
-	min-height: 200px !important;
 }
 
 .intro-ambiente-cn { /*Nome do ambiente*/
@@ -335,7 +329,7 @@ img.hover-shadow {
 
 
 
-
+    /*Configurações tela grande*/
 @media screen and (min-width: 720px) {
 
   .default-bg-home{
@@ -367,6 +361,7 @@ img.hover-shadow {
     font-size: 38px !important;
   }  
 
+
   .home-padding{
     /*vazio*/
   }
@@ -393,7 +388,11 @@ img.hover-shadow {
     font-family: Bold_Font; 
     font-size: 18px;
   }
-
+  .home-size {/* Diminuir pela metade a altura da home*/
+  height: 50% !important;
+  min-height: 200px !important;
+  }
+  
   .depoimento-quote{
     color: #F1BDC4; 
     padding-left: 45%;
@@ -408,6 +407,7 @@ img.hover-shadow {
   
 }
 
+    /*Configuração mobile*/
 @media screen and (max-width: 720px) {
 
   .default-bg-home{
@@ -466,6 +466,10 @@ img.hover-shadow {
     font-size: 18px;
     margin-bottom: 10%;
   }
+  .home-size {/* Diminuir pela metade a altura da home*/
+    height: 100% !important;
+    min-height: 200px !important;
+    }
 
   .depoimento-quote{
     color: #F1BDC4; 
