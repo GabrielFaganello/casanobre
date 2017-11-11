@@ -175,10 +175,10 @@
         <div class="kitchens-bg default-bg"></div>
     </section>
 
-    <div id="myModal" class="modal" style="z-index: 101">
-      <div class="modal-content">
+    <div id="myModal" class="modal" style="z-index: 101;">
+      <div class="modal-content modal-margin" >
 
-        <div class="mySlides" id="myModal" onblur="fecha()">
+        <div class="mySlides" >
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
           <div class="numbertext number-photo">1 / 19</div>
           <img src="resources/img/<?=$folder?>/1.jpg" class="img-width-ambiente">
@@ -297,8 +297,8 @@
 
 
 
-        <a class="prev" style="color: #fff !important;" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" style="color: #fff !important;" onclick="plusSlides(1)">&#10095;</a>
+        <a class="prev modal-next-prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next modal-next-prev" onclick="plusSlides(1)">&#10095;</a>
 
       </div>
     </div>
