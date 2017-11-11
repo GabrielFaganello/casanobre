@@ -175,7 +175,7 @@
         <div class="kitchens-bg default-bg"></div>
     </section>
 
-    <div id="myModal" class="modal" style="z-index: 101;">
+    <div id="myModal" class="modal" style="z-index: 101;" onblur="closeModal()">
       <div class="modal-content modal-margin" >
 
         <div class="mySlides" >
@@ -292,13 +292,16 @@
           <img src="resources/img/<?=$folder?>/10.jpg" class="img-width-ambiente">
         </div>
 
-
-
-
-
-
         <a class="prev modal-next-prev" onclick="plusSlides(-1)">&#10094;</a>
         <a class="next modal-next-prev" onclick="plusSlides(1)">&#10095;</a>
 
       </div>
     </div>
+
+<script>
+
+      document.getElementById('myModal').addEventListener('click', function(e) {
+        if (e.target == this) closeModal();
+      });
+      
+</script>

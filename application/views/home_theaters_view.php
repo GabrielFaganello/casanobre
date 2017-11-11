@@ -128,7 +128,7 @@
         <div class="ht-bg default-bg"></div>
     </section>
 
-    <div id="myModal" class="modal" style="z-index: 101">
+    <div id="myModal" class="modal" style="z-index: 101"  onblur="closeModal()">
       <div class="modal-content modal-margin">
 
         <div class="mySlides">
@@ -208,3 +208,11 @@
 
       </div>
     </div>
+
+<script>
+
+      document.getElementById('myModal').addEventListener('click', function(e) {
+        if (e.target == this) closeModal();
+      });
+      
+</script>

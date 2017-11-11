@@ -404,6 +404,22 @@ img.hover-shadow {
   .modal-next-prev{
     color: #fff !important; 
   }
+
+  .ambiente-title-kitchens{
+    padding-left: 34%; 
+  }
+
+  .ambiente-title-rooms{
+    padding-left: 30%; 
+  }
+
+  .ambiente-title-wcs{
+    padding-left: 33%; 
+  }
+
+  .ambiente-title-home-theater{
+    padding-left: 26%; 
+  }
   
 }
 
@@ -485,6 +501,22 @@ img.hover-shadow {
     margin-top: 1% !important;
   }
 
+  .ambiente-title-kitchens{
+    padding-left: 36%; 
+  }
+
+  .ambiente-title-rooms{
+    padding-left: 33%; 
+  }
+
+  .ambiente-title-wcs{
+    padding-left: 35%; 
+  }
+
+  .ambiente-title-home-theater{
+    padding-left: 29%; 
+  }
+
 }
 
 
@@ -558,4 +590,20 @@ img.hover-shadow {
  background: lightblue !important;
  margin-bottom:40px
 }
+
+.ambiente-row-padding{
+  padding-left: 2px !important; 
+  padding-right: 2px !important;
+}
+
+.ambiente-title{
+  position: absolute; 
+  font-family: Extrabold !important; 
+  margin-top: 25%; 
+  color: #fff; 
+  z-index: 100; 
+  letter-spacing:2px !important;"
+}
+
+
 
