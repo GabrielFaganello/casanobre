@@ -421,6 +421,24 @@ img.hover-shadow {
     padding-left: 26%; 
   }
   
+  .menu-options{
+
+  }
+
+  .menu-option-padding{
+    padding-top: 10px !important;
+  }
+
+  .menu-logo{
+    height: 50px; 
+    padding-top: 5px;  
+    padding-bottom: 5px;
+  }
+
+  .menu-logo-float-left{
+  }
+
+
 }
 
     /*Configuração mobile*/
@@ -515,6 +533,26 @@ img.hover-shadow {
 
   .ambiente-title-home-theater{
     padding-left: 29%; 
+  }
+
+  .menu-options{
+    float: right; 
+    margin-right: 5% !important;
+  }
+
+  .menu-option-padding{
+
+  }
+
+  .menu-logo{
+    height: 50px; 
+    padding-top: 2%;  
+    padding-bottom: 2%;
+    margin-left: 25%;
+  }
+
+  .menu-logo-float-left{
+    float: left;
   }
 
 }
