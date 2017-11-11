@@ -26,12 +26,14 @@
 
             <div class="row">
                 <div class="col-md-6 text-center">
-                    <div class="col-md-12" style="font-family: Thin_Italic;">
-                        <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
-                        <span>Montar minha casa com os móveis da</span><br>
-                        <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
-                        <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
-                        <i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; padding-left: 50%"></i>
+                    <div class="row">
+                        <div class="col-md-12" style="font-family: Thin_Italic;">
+                            <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
+                            <span>Montar minha casa com os móveis da</span><br>
+                            <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
+                            <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
+                            <i class="fa fa-quote-right fa-2x depoimento-quote"></i>
+                        </div>
                     </div>
                     <div class="row depoimento-row-padding">
                         <div class="col-md-4 col-md-offset-3 depoimento-img">
@@ -51,7 +53,7 @@
                             <span>Montar minha casa com os móveis da</span><br>
                             <span style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
                             <span style="padding-left: 8%;"> Ótimo atendimento!<br></span>
-                            <i class="fa fa-quote-right fa-2x" style="color: #F1BDC4; padding-left: 50%"></i>
+                            <i class="fa fa-quote-right fa-2x depoimento-quote"></i>
                         </div>
                     </div>
                     <div class="row depoimento-row-padding">
