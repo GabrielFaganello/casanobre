@@ -396,9 +396,16 @@ img.hover-shadow {
 
   .depoimento-quote{
     color: #F1BDC4; 
-    padding-left: 50%;
+    padding-left: 45%;
   }
 
+  .modal-margin{
+
+  }
+  .modal-next-prev{
+    color: #fff !important; 
+  }
+  
 }
 
 @media screen and (max-width: 720px) {
@@ -463,6 +470,15 @@ img.hover-shadow {
   .depoimento-quote{
     color: #F1BDC4; 
     padding-left: 65%;
+  }
+
+  .modal-margin{
+    margin-top: 40% !important;"
+  }
+
+  .modal-next-prev{
+    color: #fff !important; 
+    margin-top: 1% !important;
   }
 
 }

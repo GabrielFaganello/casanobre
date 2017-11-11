@@ -84,7 +84,7 @@
     </section>
 
     <div id="myModal" class="modal" style="z-index: 101">
-      <div class="modal-content">
+      <div class="modal-content modal-margin">
 
         <div class="mySlides">
           <span class="close cursor back-light-slider" onclick="closeModal()">&times;</span>
@@ -122,8 +122,8 @@
           <img src="resources/img/<?=$folder?>/6.jpg" class="img-width-ambiente">
         </div>
 
-        <a class="prev" style="color: #fff !important;" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" style="color: #fff !important;" onclick="plusSlides(1)">&#10095;</a>
+        <a class="prev modal-next-prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next modal-next-prev" onclick="plusSlides(1)">&#10095;</a>
 
       </div>
     </div>
