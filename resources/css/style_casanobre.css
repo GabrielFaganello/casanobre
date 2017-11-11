@@ -334,12 +334,6 @@ img.hover-shadow {
 }
 
 
-.title-ambientes{
-  margin-top: 3em !important; 
-  font-family: Semibold !important; 
-  letter-spacing: 4px !important; 
-  font-size: 36px !important;
-}
 
 
 @media screen and (min-width: 720px) {
@@ -365,6 +359,13 @@ img.hover-shadow {
     left: 0;
     background-size: 100% auto !important;
   }
+
+  .title-ambientes{
+    margin-top: 3em !important; 
+    font-family: Semibold !important; 
+    letter-spacing: 4px !important; 
+    font-size: 38px !important;
+  }  
 
   .home-padding{
     /*vazio*/
@@ -412,6 +413,13 @@ img.hover-shadow {
 
   .home-padding{
     padding-top: 45% !important;
+  }
+  
+  .title-ambientes{
+    margin-top: 4em !important; 
+    font-family: Semibold !important; 
+    letter-spacing: 4px !important; 
+    font-size: 30px !important;
   }
 
   .depoimento-row-padding{
