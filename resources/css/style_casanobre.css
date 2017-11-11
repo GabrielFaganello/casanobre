@@ -60,7 +60,7 @@
 .title-sub-cn { /* Titulo dentro do [ ]*/
 	font-family: 'Alt_Light' !important;
 	font-size: 24px !important;
-	margin-bottom: 12px !important;
+	/*margin-bottom: 12px !important;*/
 }
 
 .selection-margin { /* Diminuir a margen da seção*/
