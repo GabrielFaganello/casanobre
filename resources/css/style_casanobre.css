@@ -334,9 +334,17 @@ img.hover-shadow {
 }
 
 
+.title-ambientes{
+  margin-top: 3em !important; 
+  font-family: Semibold !important; 
+  letter-spacing: 4px !important; 
+  font-size: 36px !important;
+}
+
+
 @media screen and (min-width: 720px) {
 
-  .default-bg{
+  .default-bg-home{
     z-index: -1;
     position: absolute;
     top: 0;
@@ -347,6 +355,17 @@ img.hover-shadow {
     background-size: 100% 100% !important;
   }
 
+  .default-bg{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    opacity: 0.50;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: 100% auto !important;
+  }
+
   .home-padding{
     /*vazio*/
   }
@@ -354,6 +373,17 @@ img.hover-shadow {
 }
 
 @media screen and (max-width: 720px) {
+
+  .default-bg-home{
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    opacity: 0.50;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: auto 100% !important;
+  }
 
   .default-bg{
     z-index: -1;
@@ -363,7 +393,7 @@ img.hover-shadow {
     right: 0;
     bottom: 0;
     left: 0;
-    background-size: auto 100% !important;
+    background-size: auto auto !important;
   }
 
   .home-padding{

@@ -3,7 +3,7 @@
       <div class="kitchens-top-bg default-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="margin-top: 3em; font-family: Semibold !important; letter-spacing: 4px !important; font-size: 36px;">[ Cozinha ]</p>
+        <p class="intro-ambiente-cn text-left teste" >[ Cozinha ]</p>
         </div>
       </div>
     </section>
