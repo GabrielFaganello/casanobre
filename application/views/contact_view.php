@@ -2,7 +2,7 @@
       <div class="contact-top-bg"></div>
       <div class="home__header-content">
       <div class="col-md-offset-1 col-md-11">
-        <p class="intro-ambiente-cn text-left" style="font-family: Semibold !important; letter-spacing: 4px !important;font-size: 36px;">[ Contato ]</p>
+        <p class="intro-ambiente-cn text-left title-ambientes">[ Contato ]</p>
         </div>
       </div>
     </section>
