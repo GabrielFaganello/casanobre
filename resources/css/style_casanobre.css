@@ -370,6 +370,20 @@ img.hover-shadow {
     /*vazio*/
   }
 
+  .depoimento-row-padding{
+    margin-top: auto;
+    margin-left: auto;
+  }  
+
+  .depoimento-img{
+    width: 25%;
+  }
+
+  .depoimento-padding{
+    padding-top: 5% !important; 
+    padding-left: 0% !important;
+  }
+
 }
 
 @media screen and (max-width: 720px) {
@@ -400,7 +414,22 @@ img.hover-shadow {
     padding-top: 45% !important;
   }
 
+  .depoimento-row-padding{
+    margin-left: 5%;
+    margin-bottom: 15%;
+  }
+
+  .depoimento-img{
+    width: 35%;
+    margin: 5px;
+  }
+
+  .depoimento-padding{
+    padding-left: 5% !important;
+  }
+
 }
+
 
 .home-bg-cn{
   background: url(../img/original/kitchen/cozinhas_1.jpg) no-repeat center;
