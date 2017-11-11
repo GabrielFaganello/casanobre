@@ -392,6 +392,11 @@ img.hover-shadow {
   height: 50% !important;
   min-height: 200px !important;
   }
+  
+  .depoimento-quote{
+    color: #F1BDC4; 
+    padding-left: 50%;
+  }
 
 }
 
@@ -432,7 +437,7 @@ img.hover-shadow {
   }
 
   .depoimento-row-padding{
-    margin-left: 5%;
+    margin-left: 3%;
     margin-bottom: 15%;
   }
 
@@ -458,6 +463,11 @@ img.hover-shadow {
     height: 100% !important;
     min-height: 200px !important;
     }
+
+  .depoimento-quote{
+    color: #F1BDC4; 
+    padding-left: 65%;
+  }
 
 }
 
