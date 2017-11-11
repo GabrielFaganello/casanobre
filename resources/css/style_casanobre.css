@@ -347,6 +347,10 @@ img.hover-shadow {
     background-size: 100% 100% !important;
   }
 
+  .home-padding{
+    /*vazio*/
+  }
+
 }
 
 @media screen and (max-width: 720px) {
@@ -360,6 +364,10 @@ img.hover-shadow {
     bottom: 0;
     left: 0;
     background-size: auto 100% !important;
+  }
+
+  .home-padding{
+    padding-top: 45% !important;
   }
 
 }
