@@ -9,7 +9,7 @@
                            <span style="font-family: Regular !important;">Telefone: (11) 4574-4443</span></p>
                     </div>
                     <div class=" col-md-3">
-                        <p style="color: #fff !important;">Show Rooms<br>
+                        <p style="color: #fff !important;">Show Room<br>
                            Guarulhos - Av. Torres Tibagy, 870. Gopouva</p>
                     </div>
                 </div>
