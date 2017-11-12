@@ -65,7 +65,7 @@ class Casanobre extends CI_Controller {
 		// var_dump($para);die;
 
 		$this->email->from('casanobreplanejados@casanobreplanejados.com.br', 'Contato Planejados');                //ESPECIFICA O FROM(REMETENTE) DA MENSAGEM DENTRO DA CLASSE
-		$this->email->to('faganello_@hotmail.com');                         //ESPECIFICA O DESTINATÁRIO DA MENSAGEM DENTRO DA CLASSE  
+		$this->email->to('casanobreplanejados@casanobreplanejados.com.br');                         //ESPECIFICA O DESTINATÁRIO DA MENSAGEM DENTRO DA CLASSE  
 		$this->email->subject('Contato' );         //ESPECIFICA O ASSUNTO DA MENSAGEM DENTRO DA CLASSE
 		$this->email->message($msg);	                 //ESPECIFICA O TEXTO DA MENSAGEM DENTRO DA CLASSE
 		$this->email->send();                            //AÇÃO QUE ENVIA O E-MAIL COM OS PARÂMETROS DEFINIDOS ANTERIORMENTE
