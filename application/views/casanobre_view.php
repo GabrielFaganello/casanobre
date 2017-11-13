@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row title-sub-cn text-center">
                     <span class="font-weight">[</span>
-                    <span class="title-sub-cn" style="padding-left: 3%; padding-right: 3%;">Nosso compromisso!</span>
+                    <span class="title-sub-cn">Nosso compromisso!</span>
                     <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
                     <span class="font-weight">]</span>
             </div>
@@ -77,7 +77,7 @@
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
             <div class="row col-md-12 title-sub-cn text-center" style="margin-bottom: 35px !important;">
                     <span class="font-weight" style="font-weight: lighter !important;">[</span>
-                    <span class="title-sub-cn" style="margin-bottom: 30%; font-weight: lighter !important; padding-left: 3%; padding-right: 3%;">Nossos diferenciais</span>
+                    <span class="title-sub-cn" style="margin-bottom: 30%; font-weight: lighter !important;">Nossos diferenciais</span>
                     <span class="font-weight" style="font-weight: lighter !important;">]</span>
                 <br>
                 <br>
