@@ -437,6 +437,52 @@ img.hover-shadow {
   .menu-logo-float-left{
   }
 
+  input[type=text]{   
+    border-color: #a2b2c0 !important;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    border-left: hidden;
+    border-right: hidden;
+    width:100%
+  }
+
+  input[type=email]{   
+    border-color: #a2b2c0 !important; 
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    border-left: hidden;
+    border-right: hidden;
+    width:100%
+  }
+   
+  textarea{
+    border-color: #a2b2c0 !important;
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    border-left: hidden;
+    border-right: hidden;
+    width:100%
+  }
+   
+   
+  input[type=submit]{
+    background:#c24f56;
+    font-weight: bolder;
+    color:#ffffff;
+    font-family: Regular;
+    width: 100px;
+    height:30px;    
+    letter-spacing: 6px;
+    border: 0;
+  }
+
+  .send-button{
+    margin-top: 11%; 
+    margin-right: 11%; 
+    float: right !important;
+  }
+  .center-contact{
+  }
 
 }
 
@@ -554,6 +600,55 @@ img.hover-shadow {
     float: left;
   }
 
+  input[type=text]{   
+    border: 0
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-left: hidden;
+    border-right: hidden;
+    width:90%
+  }
+
+  input[type=email]{   
+      border: 0
+      border-top: solid 1px;
+      border-bottom: solid 1px;
+      border-left: hidden;
+      border-right: hidden;
+      width:90%
+  }
+   
+  textarea{
+      border: 0
+      border-top: solid 1px;
+      border-bottom: solid 1px;
+      border-left: hidden;
+      border-right: hidden;
+      width:90%
+  }
+   
+   
+  input[type=submit]{
+    background:#c24f56;
+    font-weight: bolder;
+    color:#ffffff;
+    font-family: Regular;
+    width: 100px;
+    height:30px;    
+    letter-spacing: 6px;
+    border: 0;
+  }
+
+  .send-button{
+    margin-top: 2%; 
+    margin-right: 2%; 
+    float: right !important;
+  }
+
+  .center-contact{
+    margin-left: 25%;
+    margin-bottom: 20px;
+  }
 }
 
 
@@ -642,30 +737,36 @@ img.hover-shadow {
   letter-spacing:2px !important;"
 }
 
-input[type=text]{   
-    border: 0
-    border-top: solid 1px;
-    border-bottom: solid 1px;
-    border-left: hidden;
-    border-right: hidden;
-    width:240%
-}
- 
-textarea{
-    border: 0
-    border-top: solid 1px;
-    border-bottom: solid 1px;
-    border-left: hidden;
-    border-right: hidden;
-    width:100%
-}
- 
- 
-input[type=submit]{
-        background:#006699;
-        color:#ffffff;
+.font-contact{
+  font-weight:bold !important;
+  padding-left: 8px !important; 
+  font-family: Regular !important; 
+  font-size: 18px !important;
+  color: #7C8492 !important;
 }
 
-::-webkit-input-placeholder  { font-family: Regular; color:gray; }
-input:-moz-placeholder { font-family: Regular; color:gray; }
-textarea:-moz-placeholder { font-family: Regular; color:gray; }​
+.font-weight-contact{
+  font-weight: bolder !important;
+  color: #C24F56 !important;
+  font-size: 20px !important;
+  padding: 0px !important;
+  padding: 0px !important;
+  margin: 0px !important;
+}
+
+
+::-webkit-input-placeholder {
+ font-family: Regular; 
+ color: #a2b2c0 !important; 
+}
+
+input:-moz-placeholder { 
+  font-family: Regular; 
+  color: #a2b2c0 !important;  
+}
+
+textarea:-moz-placeholder {
+ font-family: Regular; 
+ color: #a2b2c0 !important;
+}​
+
