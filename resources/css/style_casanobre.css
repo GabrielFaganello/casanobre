@@ -100,6 +100,14 @@
 	opacity: 0.7 !important;
 }
 
+.font-weight { /*[ e ]*/
+  font-weight: lighter !important;
+  color: #C24F56 !important;
+  font-size: 70px !important;
+  padding: 0px !important;
+  padding: 0px !important;
+  margin: 0px !important;
+ }
 
 
 /*  SLIDERS FOTOS   */
@@ -634,3 +642,23 @@ img.hover-shadow {
   letter-spacing:2px !important;"
 }
 
+input[type=text]{   
+    border: 0
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-left: hidden;
+    border-right: hidden;
+    width:300%
+}
+ 
+textarea{
+    border-top:1px solid #000000;
+    border-bottom:1px solid #000000;
+    width:100%
+}
+ 
+ 
+input[type=submit]{
+        background:#006699;
+        color:#ffffff;
+]

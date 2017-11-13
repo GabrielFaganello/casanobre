@@ -7,9 +7,9 @@
       </div>
     </section>
 
-    <section >
-        <div class="row">
-            <div class="col-md-12">
+    <section>
+        <div class="row" style="float: left;">
+            <div class="col-md-6 col-md-offset-6 ">
                 <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">Telefone:</span>
                 <br>
                 <span style="font-weight: bold !important; color: #C24F56 !important; font-size: 20px !important; padding: 0px !important; padding: 0px !important; margin: 0px !important;" >(11)4574-4443</span>
@@ -26,24 +26,24 @@
 
         </div>
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-6 col-md-offset-2">
                 <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
-                    <div class="col-md-offset-5 col-md-2">
-                        <label style="float: left;" for="nome">Nome:</label>
+                    <div class="col-md-6 col-md-offset-2">
+                        <label style="float: left; font-weight:lighter; font-family: Regular; font-size: 12px;" for="nome">Nome:</label>
                         <span style="float: right;"><input type="text" id="nome" placeholder="Nome" required autofocus></span>
                         <br><br>
                     </div>
-                    <div class="col-md-offset-5 col-md-2">
+                    <div class="col-md-6 col-md-offset-2">
                          <label style="float: left;" for="fone">Telefone:</label>
                          <span style="float: right;"><input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000"></span>
                          <br><br>
                     </div>
-                    <div class="col-md-offset-5 col-md-2">
+                    <div class="col-md-6 col-md-offset-2">
                          <label style="float:left;" for="assunto">Assunto:</label>
                          <span style="float:right;"><input type="text" id="assunto" placeholder="Assunto" required></span>
                          <br><br>
                     </div>
-                    <div class="col-md-offset-5 col-md-2" method="POST" action='<?=base_url('enviar');?>'>
+                    <div class="col-md-6 col-md-offset-2" method="POST" action='<?=base_url('enviar');?>'>
               
                          <label style="float: left;" for="textDe" id="from">E-mail:</label></span>
                          <span style="float: right;"><input id="textDe" type="text" name="txt_de"/></span>
@@ -59,7 +59,6 @@
              
                          <input id="ButtonEnviar" type="submit" name="env" value="Enviar E-mail"/>
                        <br><br>
-             
                     </div>
                 </form>
 
@@ -80,7 +79,7 @@
                 </form>-->
             </div>
         </div>
-    </section>
+</section>
 
         <section style="margin-top: 0px !important; margin-bottom: 0px !important; padding-top: 40px !important; padding-bottom: 0px !important;">
             <div class="container-fluid" style="border-bottom: 3px solid #C24F56">

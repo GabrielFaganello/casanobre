@@ -12,7 +12,7 @@
     <section class="selection-margin">
         <div class="container">
             <div class="row title-sub-cn text-center">
-                    <span class="font-weigh">[</span>
+                    <span class="font-weight">[</span>
                     <span class="title-sub-cn" style="padding-left: 3%; padding-right: 3%;">Nosso compromisso!</span>
                     <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
                     <span class="font-weight">]</span>
