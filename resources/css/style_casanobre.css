@@ -648,12 +648,15 @@ input[type=text]{
     border-bottom: solid 1px;
     border-left: hidden;
     border-right: hidden;
-    width:300%
+    width:240%
 }
  
 textarea{
-    border-top:1px solid #000000;
-    border-bottom:1px solid #000000;
+    border: 0
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-left: hidden;
+    border-right: hidden;
     width:100%
 }
  
@@ -661,4 +664,8 @@ textarea{
 input[type=submit]{
         background:#006699;
         color:#ffffff;
-]
+}
+
+::-webkit-input-placeholder  { font-family: Regular; color:gray; }
+input:-moz-placeholder { font-family: Regular; color:gray; }
+textarea:-moz-placeholder { font-family: Regular; color:gray; }​

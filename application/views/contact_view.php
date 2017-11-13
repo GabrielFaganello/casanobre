@@ -9,58 +9,52 @@
 
     <section>
         <div class="row" style="float: left;">
-            <div class="col-md-6 col-md-offset-6 ">
-                <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">Telefone:</span>
-                <br>
-                <span style="font-weight: bold !important; color: #C24F56 !important; font-size: 20px !important; padding: 0px !important; padding: 0px !important; margin: 0px !important;" >(11)4574-4443</span>
-                <br><br><br>
-                <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">Nossas Redes:</span>
-                <br>
-                <div class="row col col-md-1">
-                    <img src="resources/img/facebook.png" style="margin-bottom: 15px; float:left">
-                    <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">@casanobreplanejados</span>
+                <div class="col-md-5 col-md-offset-6">
+                    <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">Telefone:</span>
+                    <br>
+                    <span style="font-weight: bold !important; color: #C24F56 !important; font-size: 20px !important; padding: 0px !important; padding: 0px !important; margin: 0px !important;">(11)4574-0443</span>
+
+                    <br><br><br>
+                    <span style="font-weight:bold; margin-top: 20px; font-family: Regular; font-size: 18px;">Nossas Redes:</span>
+                    <br>
+                    
+                    <img style="float: left !important; width: 30%" src="resources/img/facebook.png" >
+                    <span style="font-weight:bold; padding-left: 8px; font-family: Regular; font-size: 18px;">@casanobre</span><br>
+                    <span style="font-weight:bold; padding-left: 8px; font-family: Regular; font-size: 18px;">planejados</span>
+                    <br><br><br>
+
+                    <img style="clear: both; float: left !important; width: 30%" src="resources/img/instagram.png" >
+                    <span style="font-weight:bold; padding-left: 8px; font-family: Regular; font-size: 18px;">@casanobre</span><br>
+                    <span style="font-weight:bold; padding-left: 8px; font-family: Regular; font-size: 18px;">oficial</span>
                     
                 </div>
 
-            </div>
 
         </div>
         <div class="row">
-            <div class="col-md-6 col-md-offset-2">
-                <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
-                    <div class="col-md-6 col-md-offset-2">
-                        <label style="float: left; font-weight:lighter; font-family: Regular; font-size: 12px;" for="nome">Nome:</label>
-                        <span style="float: right;"><input type="text" id="nome" placeholder="Nome" required autofocus></span>
-                        <br><br>
-                    </div>
-                    <div class="col-md-6 col-md-offset-2">
-                         <label style="float: left;" for="fone">Telefone:</label>
-                         <span style="float: right;"><input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000"></span>
-                         <br><br>
-                    </div>
-                    <div class="col-md-6 col-md-offset-2">
-                         <label style="float:left;" for="assunto">Assunto:</label>
-                         <span style="float:right;"><input type="text" id="assunto" placeholder="Assunto" required></span>
-                         <br><br>
-                    </div>
-                    <div class="col-md-6 col-md-offset-2" method="POST" action='<?=base_url('enviar');?>'>
-              
-                         <label style="float: left;" for="textDe" id="from">E-mail:</label></span>
-                         <span style="float: right;"><input id="textDe" type="text" name="txt_de"/></span>
-                         <br><br>
-              
-                         <label style="float: left;" for="emailPara" id="destiny">E-mail de Destino:</label>
-                         <span style="float: right;"><input id="emailPara" type="text" name="txt_para"/></span>
-                         <br><br>
-                         
-                         <label style="float: left;" for="textMsg" id="text">Mensagem:</label><br>
-                         <span style="float: right;"><textarea name="emailMensagem" id="textMsg" rows=""></textarea></span>
-                         <br><br>
-             
-                         <input id="ButtonEnviar" type="submit" name="env" value="Enviar E-mail"/>
-                       <br><br>
-                    </div>
-                </form>
+            <div class="col-md-5">
+                    <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
+                            <label style="float: left; font-weight:lighter; font-family: Regular; font-size: 12px;" for="nome"></label>
+                            <span style="float: left;"><input type="text" id="nome" placeholder="Nome" required autofocus></span>
+                            <br><br>
+                             <label style="float: left;" for="fone"></label>
+                             <span style="float: left;"><input type="text" id="fone" placeholder="Telefone/Celular" required data-mask="(00) 00000-0000"></span>
+                             <br><br>
+                             <label style="float:left;" for="assunto"></label>
+                             <span style="float:left;"><input type="text" id="assunto" placeholder="Assunto" required></span>
+                             <br><br>
+
+                  
+                             <label style="float: left;" for="textDe" id="from"></label></span>
+                             <span style="float: left;"><input id="textDe" type="text" placeholder="Email" required name="txt_de"/></span>
+                             <br><br>
+                  
+                             <label style="float: left;" for="textMsg" id="text"></label><br>
+                             <span style="float: left;"><textarea name="emailMensagem" id="textMsg" placeholder="Mensagem" required rows=""></textarea></span>
+                             <br><br>
+                 
+                             <span class="col-md-1" style="float: right;"><input id="ButtonEnviar" type="submit" name="env" required value="Enviar E-mail"/></span>
+                    </form>
 
                     <!-- <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
 
@@ -78,6 +72,7 @@
          
                 </form>-->
             </div>
+            
         </div>
 </section>
 
