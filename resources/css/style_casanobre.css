@@ -30,15 +30,6 @@
 	font-size: 12px !important;
 }
 
-.font-weight { /*[ e ]*/
-	font-weight: lighter !important;
-	color: #C24F56 !important;
-	font-size: 70px !important;
-	padding: 0px !important;
-	padding: 0px !important;
-	margin: 0px !important;
-}
-
 .title-margin-single { /* Margem e padding da linha do titulo dentro do [ ] */
 	padding-top: 28px !important; 
 	/*padding-left: 0px !important;*/
@@ -642,6 +633,4 @@ img.hover-shadow {
   z-index: 100; 
   letter-spacing:2px !important;"
 }
-
-
 
