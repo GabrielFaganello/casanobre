@@ -16,7 +16,7 @@
 
     <div class="row">
         <div class="col-md-12 text-center">
-            <a href="#" class="btn btn-custom-outline-red" style="font-family: Bold_Font; font-size: 18px; letter-spacing:1px;">ENTRE EM CONTATO</a>
+            <a href="<?=base_url('contact');?>" class="btn btn-custom-outline-red" style="font-family: Bold_Font; font-size: 18px; letter-spacing:1px;">ENTRE EM CONTATO</a>
         </div>
     </div>
 

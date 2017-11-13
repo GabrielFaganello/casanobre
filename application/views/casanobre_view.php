@@ -3,9 +3,9 @@
       <div class="home__header-content">
         <h1 class="intro-title-cn home-padding">Nobreza nas Atitudes!</h1>
         <p class="intro-text-cn">Na <b class="intro-text-cn-mp">Casa Nobre Planejados</b> você encontra qualidade, transparência e respeito.</p>
-        <!-- <div class="btn-bar">
-            <a href="<?=base_url('');?>" class="btn btn-custom-outline btn-font-cn">COMECE SEU PROJETO</a>
-        </div> -->
+        <div class="btn-bar">
+            <a href="<?=base_url('contact');?>" class="btn btn-custom-outline btn-font-cn">COMECE SEU PROJETO</a>
+        </div>
       </div>
     </section>
 

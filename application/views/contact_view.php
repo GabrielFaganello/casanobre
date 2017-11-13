@@ -31,43 +31,29 @@
         <div class="row">
             <div class="col-md-4 col-md-offset-1">
                     <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
+
                             <label style="font-weight:lighter; font-family: Regular; font-size: 12px;" for="nome"></label>
-                            <span><input type="text" id="nome" placeholder="Nome:" required autofocus></span>
+                            <span><input type="text" id="nome" name="nome" placeholder="Nome:" required autofocus></span>
                             <br><br>
-                             <label for="fone"></label>
-                             <span><input type="text" id="fone" placeholder="Telefone/Celular:" required data-mask="(00) 00000-0000"></span>
-                             <br><br>
-                             <label for="assunto"></label>
-                             <span><input type="text" id="assunto" placeholder="Assunto:" required></span>
-                             <br><br>
 
+                            <label for="fone"></label>
+                            <span><input type="text" id="fone"  name="fone" placeholder="Telefone/Celular:" required data-mask="(00) 00000-0000"></span>
+                            <br><br>
+                        
+                            <label for="assunto"></label>
+                            <span><input type="text" id="assunto" name="assunto" placeholder="Assunto:" required></span>
+                            <br><br>
                   
-                             <label for="textDe" id="from"></label></span>
-                             <span><input id="textDe" type="email" placeholder="Email:" required name="txt_de"/></span>
-                             <br>
+                            <label for="email"></label></span>
+                            <span><input type="email" id="email" name="email" placeholder="Email:" required /></span>
+                            <br>
                   
-                             <label for="textMsg" id="text"></label><br>
-                             <span><textarea name="emailMensagem" id="textMsg" placeholder="Mensagem:" required rows=""></textarea></span>
-                             <br><br>
+                            <label for="emailMensagem" id="text"></label><br>
+                            <span><textarea name="emailMensagem" id="emailMensagem" placeholder="Mensagem:" required rows=""></textarea></span>
+                            <br><br>
                  
-                             <span class="col-md-1 send-button"><input id="ButtonEnviar" type="submit" name="env" required value="ENVIAR"/></span>
+                            <span class="col-md-1 send-button"><input id="ButtonEnviar" type="submit" name="env" required value="ENVIAR"/></span>
                     </form>
-
-                    <!-- <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
-
-                    <span id="destiny">E-mail de Destino:</span>
-                    <input id="emailPara" type="text" name="txt_para"/>
-                    <br>
-                    <br>
-         
-                    <span id="text">Mensagem:</span>
-                    <textarea name="emailMensagem" id="textMsg" rows=""></textarea>
-                    <br>
-                    <br>
-         
-                    <input id="ButtonEnviar" type="submit" name="env" value="Enviar E-mail"/>
-         
-                </form>-->
             </div>
             
         </div>
