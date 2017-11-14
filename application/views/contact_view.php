@@ -18,15 +18,9 @@
             <span class="font-contact">Nossas Redes:</span>
             <br>
             
-            <img style="float: left !important; width: 30%" src="resources/img/facebook.png" >
-            <span class="font-contact">@casanobre</span><br>
+            <img style="float: left !important; width: 30%; padding-top: 10px;" src="resources/img/facebook.png" >
+            <span class="font-contact" style="padding-top: 5%">@casanobre</span><br>
             <span class="font-contact">planejados</span>
-            <br><br><br>
-
-            <img style="clear: both; float: left !important; width: 30%" src="resources/img/instagram.png" >
-            <span class="font-contact">@casanobre</span><br>
-            <span class="font-contact">oficial</span>
-            
         </div>
         <div class="row">
             <div class="col-md-4 col-md-offset-1">
@@ -54,6 +48,12 @@
                  
                             <span class="col-md-1 send-button"><input id="ButtonEnviar" type="submit" name="env" required value="ENVIAR"/></span>
                     </form>
+                            <div id="foo" class="alert-success text-center" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
+                                Seu email foi enviado com sucesso!
+                            </div>
+                            <div class="alert-danger text-center" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
+                                Seu email não foi enviado!
+                            </div>
             </div>
             
         </div>

@@ -480,7 +480,7 @@ img.hover-shadow {
 
   .send-button{
     margin-top: 11%; 
-    margin-right: 11%; 
+    margin-right: 18%; 
     float: right !important;
   }
   .center-contact{
@@ -741,13 +741,13 @@ img.hover-shadow {
 
 .font-contact{
   font-weight:bold !important;
-  padding-left: 8px !important; 
+  padding-left: 3px !important; 
   font-family: Regular !important; 
   font-size: 18px !important;
   color: #7C8492 !important;
   display: inline-block;
-  height: 20px;
-  padding-top: 10px;
+  height: 18px;
+  padding-top: 5px;
 }
 
 .font-weight-contact{
@@ -775,4 +775,8 @@ textarea:-moz-placeholder {
  color: #a2b2c0 !important;
 }​
 
-
+.font-alert{
+  font-weight:bold !important;
+  font-family: Regular !important; 
+  font-size: 18px !important;
+}
