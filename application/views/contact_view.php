@@ -24,7 +24,8 @@
         </div>
         <div class="row">
             <div class="col-md-4 col-md-offset-1">
-                    <form class=" text-center" method="POST" action='<?=base_url('enviar');?>'> 
+                    <!-- <form id="email_form" class=" text-center" method="POST" action='<?=base_url('enviar');?>'>  -->
+                    <form id="email_form" class="text-center" method="POST"> 
 
                             <label style="font-weight:lighter; font-family: Regular; font-size: 12px;" for="nome"></label>
                             <span><input type="text" id="nome" name="nome" placeholder="Nome:" required autofocus></span>
@@ -48,11 +49,11 @@
                  
                             <span class="col-md-1 send-button"><input id="ButtonEnviar" type="submit" name="env" required value="ENVIAR"/></span>
                     </form>
-                            <div id="foo" class="alert-success text-center" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
-                                Seu email foi enviado com sucesso!
+                            <div id="email_success" class="alert-success text-center hide" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
+                                E-mail enviado com sucesso!
                             </div>
-                            <div class="alert-danger text-center" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
-                                Seu email não foi enviado!
+                            <div  id="email_fail" class="alert-danger text-center hide" style=" width: 75%; font-weight:lighter !important; font-family: Regular !important; font-size: 18px !important;">
+                                Erro ao enviar e-mail! Tenete novamente.
                             </div>
             </div>
             

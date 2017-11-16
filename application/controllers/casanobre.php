@@ -2,6 +2,13 @@
 
 class Casanobre extends CI_Controller {
 
+
+    function __construct()
+    {
+      	parent::__construct();
+      	$this->load->model("casanobre_model", "casanobre_model");
+   	}
+
 	public function index()
 	{
 		$this->load->view('menu_view');
@@ -56,33 +63,8 @@ class Casanobre extends CI_Controller {
 		$this->load->view('footer_view');
 	}
 
-	function enviar()
+	public function enviar()
 	{
-
-		$nome_contato = $this->input->post('nome');    //CAPTURA O VALOR DA CAIXA DE TEXTO 'E-mail de Destino'
-		$fone_contato = $this->input->post('fone');    //CAPTURA O VALOR DA CAIXA DE TEXTO 'E-mail de Destino'
-		$assunto_contato = $this->input->post('assunto');    //CAPTURA O VALOR DA CAIXA DE TEXTO 'E-mail de Destino'
-		$email_contato = $this->input->post('email');    //CAPTURA O VALOR DA CAIXA DE TEXTO 'E-mail de Destino'
-		$msg_contato = $this->input->post('emailMensagem');
-
-		$mensagem = "Nome: $nome_contato\n".
-					"E-mail: $email_contato\n".
-					"Telefone: $fone_contato\n".
-					"Assunto: $assunto_contato\n".
-					"Mensagem: $msg_contato";
-
-
-		$this->email->from('casanobreplanejados@casanobreplanejados.com.br', 'Contato Planejados');                //ESPECIFICA O FROM(REMETENTE) DA MENSAGEM DENTRO DA CLASSE
-		$this->email->to('faganello_@hotmail.com');                         //ESPECIFICA O DESTINATÁRIO DA MENSAGEM DENTRO DA CLASSE  
-		$this->email->subject('Contato');         //ESPECIFICA O ASSUNTO DA MENSAGEM DENTRO DA CLASSE
-		$this->email->message($mensagem);	                 //ESPECIFICA O TEXTO DA MENSAGEM DENTRO DA CLASSE
-		$this->email->send();                            //AÇÃO QUE ENVIA O E-MAIL COM OS PARÂMETROS DEFINIDOS ANTERIORMENTE
-		
-		// echo $this->email->print_debugger();             //COMANDO QUE MOSTRA COMO ACONTECEU O ENVIO DA MENSAGEM NO SERVIDOR
-
-		$this->load->view('menu_view');
-		$this->load->view('contact_view');
-		$this->load->view('footer_view');
-
+		echo $this->casanobre_model->enviar_email();
 	}	
 }

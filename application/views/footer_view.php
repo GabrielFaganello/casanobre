@@ -48,6 +48,47 @@
     <script src="resources/js/app.js" type="text/javascript"></script>
     <script type="text/javascript" src="resources/js/switcher.js"></script>
 
+
+
+<script type="text/javascript">
+
+// this is the id of the form
+$("#email_form").submit(function(e) {
+
+    $.ajax({
+           type: "POST",
+           url: "enviar",
+           data: $("#email_form").serialize(), // serializes the form's elements.
+           dataType: 'json',
+           beforeSend: function(){
+
+              // $("#matriz_table").html("").addClass("loading-price-app").html("&nbsp;");
+
+            },
+           complete: function(data)
+           {
+
+            if( data.status == 200 ){
+
+              var envia_msg = data.responseJSON;
+
+              console.log(envia_msg); // show response from the php script.
+
+            }
+            else
+            {
+              alert("Erro");
+            }               
+           }
+
+         });
+
+    e.preventDefault(); // avoid to execute the actual submit of the form.
+});
+
+
+</script>
+
 </body>
 
 </html>
