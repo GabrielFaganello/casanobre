@@ -71,15 +71,18 @@ $("#email_form").submit(function(e) {
             if( data.status == 200 ){
 
               var envia_msg = data.responseJSON;
+                
 
               console.log(envia_msg); // show response from the php script.
 
             }
-            else
-            {
-              alert("Erro");
-            }               
+            else{
+              $("div#email_fail").hide();
+              $("div#email_success").hide();
+            }
            }
+
+           
 
          });
 
@@ -92,3 +95,8 @@ $("#email_form").submit(function(e) {
 </body>
 
 </html>
+if (envia_msg == 0) {
+                  $("#email_fail").show();
+                }else{
+                  $("#email_success").show();
+                }

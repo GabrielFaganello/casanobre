@@ -780,3 +780,18 @@ textarea:-moz-placeholder {
   font-family: Regular !important; 
   font-size: 18px !important;
 }
+
+#email_success{
+  width: 75%; 
+  font-weight:lighter !important; 
+  font-family: Regular !important; 
+  font-size: 18px !important;
+  border-radius: 5px;
+}
+#email_fail{
+  width: 75%; 
+  font-weight:lighter !important; 
+  font-family: Regular !important; 
+  font-size: 18px !important;
+  border-radius: 5px;
+}
