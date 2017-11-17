@@ -49,10 +49,10 @@
                  
                             <span class="col-md-1 send-button"><input id="ButtonEnviar" type="submit" name="env" required value="ENVIAR"/></span>
                     </form>
-                            <div id="email_success" class="alert-success text-center ">
+                            <div id="email_success" class="alert-success text-center hide">
                                 E-mail enviado com sucesso!
                             </div>
-                            <div  id="email_fail" class="alert-danger text-center ">
+                            <div  id="email_fail" class="alert-danger text-center hide">
                                 Erro ao enviar e-mail! Tenete novamente.
                             </div>
             </div>
