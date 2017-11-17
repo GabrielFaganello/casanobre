@@ -486,6 +486,21 @@ img.hover-shadow {
   .center-contact{
   }
 
+  #email_success{
+  width: 75%; 
+  font-weight:lighter !important; 
+  font-family: Regular !important; 
+  font-size: 18px !important;
+  border-radius: 5px;
+  }
+  #email_fail{
+    width: 75%; 
+    font-weight:lighter !important; 
+    font-family: Regular !important; 
+    font-size: 18px !important;
+    border-radius: 5px;
+  }
+
 }
 
     /*Configuração mobile*/
@@ -651,6 +666,21 @@ img.hover-shadow {
     margin-left: 25%;
     margin-bottom: 20px;
   }
+
+  #email_success{
+  width: 66%; 
+  font-weight:lighter !important; 
+  font-family: Regular !important; 
+  font-size: 18px !important;
+  border-radius: 5px;
+  }
+  #email_fail{
+    width: 66%; 
+    font-weight:lighter !important; 
+    font-family: Regular !important; 
+    font-size: 18px !important;
+    border-radius: 5px;
+  }
 }
 
 
@@ -779,19 +809,4 @@ textarea:-moz-placeholder {
   font-weight:bold !important;
   font-family: Regular !important; 
   font-size: 18px !important;
-}
-
-#email_success{
-  width: 75%; 
-  font-weight:lighter !important; 
-  font-family: Regular !important; 
-  font-size: 18px !important;
-  border-radius: 5px;
-}
-#email_fail{
-  width: 75%; 
-  font-weight:lighter !important; 
-  font-family: Regular !important; 
-  font-size: 18px !important;
-  border-radius: 5px;
 }
