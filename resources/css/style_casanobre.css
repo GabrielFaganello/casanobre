@@ -487,14 +487,14 @@ img.hover-shadow {
   }
 
   #email_success{
-  width: 75%; 
+  width: 100%; 
   font-weight:lighter !important; 
   font-family: Regular !important; 
   font-size: 18px !important;
   border-radius: 5px;
   }
   #email_fail{
-    width: 75%; 
+    width: 100%; 
     font-weight:lighter !important; 
     font-family: Regular !important; 
     font-size: 18px !important;
