@@ -61,25 +61,28 @@ $("#email_form").submit(function(e) {
            data: $("#email_form").serialize(), // serializes the form's elements.
            dataType: 'json',
            beforeSend: function(){
-
+            $("#email_success").addClass("hide");
+            $("#email_fail").addClass("hide");
               // $("#matriz_table").html("").addClass("loading-price-app").html("&nbsp;");
 
             },
            complete: function(data)
            {
 
-            if( data.status == 200 ){
+              if( data.status == 200 ){
 
-              var envia_msg = data.responseJSON;
-
-              console.log(envia_msg); // show response from the php script.
-
-            }
-            else
-            {
-              alert("Erro");
-            }               
+                var envia_msg = data.responseJSON;
+                if (envia_msg == 1){
+                  $("#email_success").removeClass("hide");
+                }else{
+                  $("#email_fail").removeClass("hide");
+                }
+                
+              }
+            
            }
+
+           
 
          });
 
@@ -92,3 +95,8 @@ $("#email_form").submit(function(e) {
 </body>
 
 </html>
+if (envia_msg == 0) {
+                  $("#email_fail").show();
+                }else{
+                  $("#email_success").show();
+                }
