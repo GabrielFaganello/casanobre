@@ -24,11 +24,11 @@
 
     <script src="resources/js/jquery.min.js"></script>
     <script src="resources/js/casanobre.js"></script>
-    <script src="resources/js/jquery.easing.min.js"></script>
+    <!-- <script src="resources/js/jquery.easing.min.js"></script> ****aparentemente não mudou nada***-->
     <script src="resources/js/bootstrap.min.js"></script>
-    <script src="resources/js/SmoothScroll.js"></script>
-    <script src="resources/js/owl.carousel.js"></script>
-    <script src="resources/js/waypoints.min.js" type="text/javascript"></script>
+    <!-- <script src="resources/js/SmoothScroll.js"></script> ****aparentemente não mudou nada***-->
+    <!-- <script src="resources/js/owl.carousel.js"></script> ****aparentemente não mudou nada*** -->
+    <!-- <script src="resources/js/waypoints.min.js" type="text/javascript"></script> -->
     <script src="resources/js/jquery.counterup.min.js" type="text/javascript"></script>
     <script src="resources/js/jquery.stellar.min.js"></script>
     <script src="resources/js/jquery.magnific-popup.min.js" type="text/javascript"></script>

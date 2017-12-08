@@ -69,7 +69,7 @@
                                         </li>  
 
                                     </ul>
-                                <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;CONTATO</a>
+                                <a class="menu-hover dropdown-content-property" href="<?=base_url('contact');?>" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;CONTATO</a>
                                 <a class="dropdown-content-property" href="#" style="font-family: Bold_Font !important; color: #fff; letter-spacing: 2px;">]&nbsp;&nbsp;&nbsp;MAIS?<br> Acesse nossas redes</a>
 <!--                                     <div class="col-md-3 col-md-offset-2 text-center menu-hover" style="margin-bottom: 35px; color: #fff; padding-top: 10px !important; padding-bottom: 10px !important;">
                                         <a href="https://www.facebook.com/Casa-Nobre-Planejados-1017788221624088/"><i class="fa fa-facebook fa-2x letter-change text-center" aria-hidden="true" ></i></a>
