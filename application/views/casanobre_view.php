@@ -11,11 +11,11 @@
 
     <section class="selection-margin">
         <div class="container">
-            <div class="row title-sub-cn text-center">
-                    <span class="font-weight">[</span>
+            <div class="row text-center">
+                    <img class="colchetes" src="resources/img/[.png">
                     <span class="title-sub-cn">Nosso compromisso!</span>
                     <!-- <span class="title-sub-cn">Encantar os clientes é o nosso maior compromisso!</span> -->
-                    <span class="font-weight">]</span>
+                    <img class="colchetes" src="resources/img/].png"">
             </div>
 
             <div class="row">
@@ -76,9 +76,9 @@
     <section class="selection-margin" style="margin-top: 10px !important; margin-bottom: 10px !important; padding-bottom: 10px !important; padding-top: 10px !important;">
         <div class="container" style="margin-bottom: 10px !important; padding-bottom: 10px !important;">
             <div class="row col-md-12 title-sub-cn text-center" style="margin-bottom: 35px !important;">
-                    <span class="font-weight" style="font-weight: lighter !important;">[</span>
+                    <img class="colchetes" src="resources/img/[.png">
                     <span class="title-sub-cn" style="margin-bottom: 30%; font-weight: lighter !important;">Nossos diferenciais</span>
-                    <span class="font-weight" style="font-weight: lighter !important;">]</span>
+                    <img class="colchetes" src="resources/img/].png">
                 <br>
                 <br>
             </div>

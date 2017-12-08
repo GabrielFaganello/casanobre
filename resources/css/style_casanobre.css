@@ -810,3 +810,7 @@ textarea:-moz-placeholder {
   font-family: Regular !important; 
   font-size: 18px !important;
 }
+.colchetes {
+  width: 4.5%; 
+  padding-bottom: 10px;
+}

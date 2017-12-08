@@ -2,9 +2,9 @@
     <div class="container">
         
     <div class="row title-sub-cn text-center visit-title-margin">
-            <span class="font-weight" style="font-weight: lighter; !important">[</span>
+            <img class="colchetes" src="resources/img/[.png">
             <span class="title-sub-cn" style="margin-top: 40px; font-weight: lighter !important; padding-left: 3%; padding-right: 3%;">Venha nos visitar!</span>
-            <span class="font-weight" style="font-weight: lighter !important">]</span>
+            <img class="colchetes" src="resources/img/].png">
     </div>
 
     <div class="row text-center">
