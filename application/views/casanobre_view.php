@@ -29,40 +29,49 @@
                     <div class="row">
                         <div class="col-md-12" style="font-family: Thin_Italic;">
                             <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
-                            <span class="depoimentos-text">Montar minha casa com os móveis da</span><br>
-                            <span class="depoimentos-text" style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
-                            <span class="depoimentos-text" style="padding-left: 8%;"> Ótimo atendimento!<br></span>
+                            <span class="depoimentos-text">Empresa de responsabilidade e seriedade,</span><br>
+                            <span class="depoimentos-text">são novos no mercado? Sim! Porém dei meu</span><br>
+                            <span class="depoimentos-text">voto de confiança e não me arrependi!!</span><br>
+                            <span class="depoimentos-text">Farei minha casa toda com eles!!!!</span><br>
+                            <span class="depoimentos-text">Obrigado senhor Eder, voltarei a fazer</span><br>
+                            <span class="depoimentos-text">negócio com senhor sempre que possível.</span><br>
+                            <!-- <span class="depoimentos-text" style="padding-left: 8%;"> Ótimo atendimento!<br></span> -->
                             <i class="fa fa-quote-right fa-2x depoimento-quote"></i>
                         </div>
                     </div>
                     <div class="row depoimento-row-padding">
                         <div class="col-md-4 col-md-offset-3 depoimento-img">
-                            <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
+                            <img alt="image" class="img-circle" style="float: left;" src="resources/img/depoimento_1.jpg">
                         </div>
                         <div class="col-md-4  text-left pull-left depoimento-padding">
-                            <p style="font-family: Bold_Font; line-height: 18px;">Izabel Pacheco<br>
-                            <span style="font-family: Regular;">Fez cozinha e banheiro<br>
+                            <p style="font-family: Bold_Font; line-height: 18px;">Flavio Procopio<br>
+                            <span style="font-family: Regular;">Fez a casa completa<br>
                             com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
                         </div>
                     </div>                        
                 </div>
                 <div class="col-md-6 text-center">
                     <div class="row">
-                        <div class="col-md-12" style="font-family: Thin_Italic;"">
+                        <div class="col-md-12" style="font-family: Thin_Italic;">
                             <span class="text-center"><i class="fa fa-quote-left fa-3x" style="color: #C24F56;"></i></span>
-                            <span class="depoimentos-text">Montar minha casa com os móveis da</span><br>
-                            <span class="depoimentos-text" style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br>
-                            <span class="depoimentos-text" style="padding-left: 8%;"> Ótimo atendimento!<br></span>
+                            <span class="depoimentos-text">Sou eternamente grata... por vocês...</span><br>
+                            <span class="depoimentos-text">pelo atendimento... pela atenção... pelo carinho...</span><br>
+                            <span class="depoimentos-text">senti confiança demais em vocês e não errei...</span><br>
+                            <span class="depoimentos-text">entregaram meus móveis com 24 dias úteis de antecedência...</span><br>
+                            <span class="depoimentos-text">tô muito muito satisfeita... qualidade top...</span><br>
+                            <span class="depoimentos-text">muito obrigada Eder e Cesar.</span><br>
+                            <!-- <span class="depoimentos-text" style="padding-left: 8%;">Casa Nobre foi a melhor escolha.</span><br> -->
+                            <!-- <span class="depoimentos-text" style="padding-left: 8%;"> Ótimo atendimento!<br></span> -->
                             <i class="fa fa-quote-right fa-2x depoimento-quote"></i>
                         </div>
                     </div>
                     <div class="row depoimento-row-padding">
                         <div class="col-md-2 col-md-offset-3 depoimento-img">
-                            <img alt="image" class="img-circle" style="float: left;" src="resources/img/test-1.jpg">
+                            <img alt="image" class="img-circle" style="float: left;" src="resources/img/depoimento_2.jpg">
                         </div>
                         <div class="col-md-4 text-left pull-left depoimento-padding">
-                            <p style="font-family: Bold_Font; line-height: 18px;">Chaves<br>
-                            <span style="font-family: Regular;">Fez o baú<br>
+                            <p style="font-family: Bold_Font; line-height: 18px;">Priscila Silva<br>
+                            <span style="font-family: Regular;">Fez a casa completa<br>
                             com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
                         </div>
                     </div>
