@@ -46,7 +46,7 @@
                         <div class="col-md-4  text-left pull-left depoimento-padding">
                             <p style="font-family: Bold_Font; line-height: 18px;">Flavio Procopio<br>
                             <span style="font-family: Regular;">Fez a casa completa<br>
-                            com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados<b></span></p>
+                            com a <b style="font-family: Bold_Italic;">Casa Nobre Planejados</b></span></p>
                         </div>
                     </div>                        
                 </div>
