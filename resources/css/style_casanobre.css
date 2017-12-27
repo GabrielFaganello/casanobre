@@ -500,6 +500,9 @@ img.hover-shadow {
     font-size: 18px !important;
     border-radius: 5px;
   }
+  .depoimentos-text{
+    font-size: 18px !important;
+  }
 
 }
 
@@ -674,12 +677,17 @@ img.hover-shadow {
   font-size: 18px !important;
   border-radius: 5px;
   }
+
   #email_fail{
     width: 66%; 
     font-weight:lighter !important; 
     font-family: Regular !important; 
     font-size: 18px !important;
     border-radius: 5px;
+  }
+
+  .depoimentos-text{
+    font-size: 15px !important;
   }
 }
 
@@ -812,7 +820,4 @@ textarea:-moz-placeholder {
 }
 .colchetes {
   padding-bottom: 10px;
-}
-.depoimentos-text {
-  font-size: 18px;
 }
