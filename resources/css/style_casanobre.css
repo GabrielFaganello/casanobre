@@ -2,7 +2,7 @@
 	font-weight: 900;
 	color: #ffffff;
 	/*text-transform: uppercase;*/
-	font-size: 48px;
+	font-size: 53px;
 	text-shadow: rgba(0,0,0,0.498039) 2px 2px 2px;
 	letter-spacing: 0.02em;
 	margin: 0px 0px 20px 0px;
@@ -11,7 +11,7 @@
 
 .intro-text-cn { /*Na Casa Nobre Planejados você encontra qualidade, transparência e respeito.*/
 	font-weight: normal !important;
-	font-size: 16px;
+	font-size: 25px;
 	color: #ffffff;
 	margin-bottom: 20px;
 	font-family: 'Semibold' !important;
@@ -19,7 +19,7 @@
 
 .intro-text-cn-mp { /*Casa Nobre Planejados   DENTRO DO SUB*/ 
 	font-weight: bold !important;
-	font-size: 20px;
+	font-size: 28px;
 	color: #ffffff;
 	margin-bottom: 20px;
 	font-family: 'Semibold' !important;
@@ -27,7 +27,7 @@
 
 .btn-font-cn { /* Botão da home*/
 	font-family: 'Bold_Font' !important;
-	font-size: 12px !important;
+	font-size: 14px !important;
 }
 
 .title-margin-single { /* Margem e padding da linha do titulo dentro do [ ] */

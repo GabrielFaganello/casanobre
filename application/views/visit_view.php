@@ -10,7 +10,7 @@
     <div class="row text-center">
         <div class="col-md-12">
             <p class="visit-p-margin">Atualmente trabalhamos nas regiões de São Paulo e Guarulhos.</p>
-            <p style="font-family: Bold_Italic; font-size: 20px; letter-spacing:1px;">Passe em um de nossos show rooms para nos conhecer, sem compromisso!</p><br>
+            <!-- <p style="font-family: Bold_Italic; font-size: 20px; letter-spacing:1px;">Passe em um de nossos show rooms para nos conhecer, sem compromisso!</p><br> -->
         </div>
     </div>
 

@@ -110,7 +110,7 @@
                 </div>
                 <div class="col-md-3 text-center">
                     <img class="text-center" src="resources/img/3AnosDeGarantia.png" style="margin-bottom: 15px !important;">
-                    <p style="color: #C24F56; font-size: 25px; font-family: Semibold_Italic !important;">3 anos de<br>garantia</p>
+                    <p style="color: #C24F56; font-size: 25px; font-family: Semibold_Italic !important;">5 anos de<br>garantia</p>
                     <p style="font-family: Semibold_Italic !important;">Sua satisfação é nossa<br> prioridade!</p>
                 </div>                                
             </div>
